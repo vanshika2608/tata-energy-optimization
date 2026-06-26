@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Model (regenerate with train_model.py)
+model/energy_model.pkl
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# macOS
+.DS_Store

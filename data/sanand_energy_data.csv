@@ -1,0 +1,2001 @@
+station,vehicle_model,shift,workers_on_shift,ambient_temp_c,production_time_min,energy_consumed_kwh
+Quality Check,Tiago EV,Morning,10,36.4,23.1,211.4
+Final Assembly,Punch EV,Morning,10,39.7,56.1,323.96
+Final Assembly,Curvv EV,Morning,11,32.1,41.9,330.91
+Paint Shop,Curvv EV,Night,11,28.7,78.2,846.8
+Trim Assembly,Punch EV,Afternoon,11,28.2,39.0,250.4
+Stamping,Curvv EV,Afternoon,6,32.4,38.0,467.48
+Body Welding,Punch EV,Afternoon,6,36.4,46.9,488.81
+Trim Assembly,Nexon EV,Morning,3,28.2,38.0,224.7
+Paint Shop,Curvv EV,Morning,5,39.1,85.6,899.04
+Stamping,Tiago EV,Night,10,37.3,44.3,463.25
+Quality Check,Tiago EV,Afternoon,3,38.1,18.8,162.88
+Paint Shop,Curvv EV,Night,9,34.7,72.3,839.68
+Quality Check,Nexon EV,Night,6,41.2,38.0,197.85
+Trim Assembly,Punch EV,Afternoon,9,40.5,42.5,271.89
+Trim Assembly,Nexon EV,Morning,5,28.1,23.8,233.78
+Final Assembly,Curvv EV,Morning,3,28.9,48.7,291.44
+Chassis Mount,Curvv EV,Morning,3,31.7,39.5,369.89
+Chassis Mount,Curvv EV,Afternoon,8,31.4,48.5,385.23
+EV Battery Fit,Curvv EV,Morning,4,36.9,31.0,380.43
+Paint Shop,Tiago EV,Afternoon,5,32.9,87.0,842.96
+Stamping,Punch EV,Morning,9,35.6,26.8,331.12
+Stamping,Curvv EV,Afternoon,7,40.6,36.0,448.53
+Paint Shop,Curvv EV,Afternoon,3,37.0,81.8,888.77
+Final Assembly,Curvv EV,Night,11,30.5,40.3,276.18
+EV Battery Fit,Tiago EV,Night,3,32.3,43.1,393.11
+Paint Shop,Curvv EV,Afternoon,4,32.9,80.5,905.07
+EV Battery Fit,Curvv EV,Night,5,38.8,23.7,304.08
+Final Assembly,Tiago EV,Morning,5,41.7,52.7,318.13
+Paint Shop,Nexon EV,Afternoon,8,37.7,72.9,824.94
+Body Welding,Nexon EV,Afternoon,10,37.8,45.9,555.72
+Paint Shop,Nexon EV,Afternoon,10,40.8,84.1,940.21
+Trim Assembly,Tiago EV,Night,4,29.3,50.2,292.96
+Chassis Mount,Punch EV,Afternoon,8,31.5,24.1,274.85
+Final Assembly,Curvv EV,Morning,6,33.8,54.1,341.35
+Body Welding,Tiago EV,Afternoon,3,33.6,67.7,629.75
+Trim Assembly,Nexon EV,Morning,3,34.2,38.7,263.46
+Stamping,Tiago EV,Morning,7,36.6,22.8,361.69
+Trim Assembly,Punch EV,Afternoon,7,34.6,51.2,270.26
+Chassis Mount,Curvv EV,Afternoon,5,35.0,43.2,346.34
+EV Battery Fit,Curvv EV,Night,10,37.5,38.5,366.06
+Trim Assembly,Nexon EV,Night,3,37.1,39.6,273.6
+Quality Check,Punch EV,Morning,10,33.4,21.6,198.65
+Body Welding,Punch EV,Morning,10,38.3,50.0,503.41
+Quality Check,Punch EV,Night,7,31.3,15.2,174.58
+Stamping,Curvv EV,Afternoon,11,32.5,33.1,398.41
+Final Assembly,Curvv EV,Night,6,36.0,45.1,356.69
+Paint Shop,Curvv EV,Morning,7,39.1,74.4,825.38
+Body Welding,Curvv EV,Night,11,38.7,61.4,607.47
+Body Welding,Punch EV,Morning,4,29.1,43.4,481.09
+Chassis Mount,Tiago EV,Afternoon,5,29.6,38.3,321.9
+Trim Assembly,Tiago EV,Morning,11,38.4,36.2,261.67
+Chassis Mount,Punch EV,Afternoon,7,28.6,33.2,280.68
+Stamping,Tiago EV,Afternoon,3,36.8,42.0,502.24
+EV Battery Fit,Curvv EV,Afternoon,6,34.5,31.5,295.78
+EV Battery Fit,Punch EV,Night,3,31.9,51.8,450.4
+Stamping,Punch EV,Afternoon,10,40.3,21.2,348.8
+Body Welding,Nexon EV,Night,7,38.5,64.2,626.9
+Chassis Mount,Tiago EV,Afternoon,7,36.2,55.3,409.51
+Stamping,Nexon EV,Afternoon,5,31.8,37.7,337.05
+Paint Shop,Punch EV,Night,3,35.7,77.9,858.79
+Quality Check,Tiago EV,Night,7,36.7,17.3,186.26
+Final Assembly,Tiago EV,Night,5,40.7,35.9,225.33
+Quality Check,Tiago EV,Afternoon,3,41.3,11.4,102.21
+Paint Shop,Curvv EV,Night,5,35.5,79.3,846.02
+Trim Assembly,Tiago EV,Morning,5,35.2,45.6,253.73
+Final Assembly,Punch EV,Morning,3,35.5,39.6,284.35
+Paint Shop,Punch EV,Morning,11,34.7,81.0,881.91
+Trim Assembly,Tiago EV,Night,10,34.8,38.8,293.17
+Final Assembly,Curvv EV,Night,5,38.0,50.2,363.29
+Quality Check,Tiago EV,Morning,7,30.6,10.0,146.89
+Stamping,Nexon EV,Morning,6,34.6,45.7,469.99
+EV Battery Fit,Curvv EV,Morning,5,33.3,51.2,409.97
+Paint Shop,Punch EV,Morning,7,41.1,78.4,861.63
+Quality Check,Punch EV,Afternoon,3,34.9,26.2,198.12
+Body Welding,Nexon EV,Night,7,30.6,48.9,532.48
+EV Battery Fit,Nexon EV,Afternoon,6,32.5,30.8,358.39
+Body Welding,Nexon EV,Afternoon,10,39.3,61.7,542.14
+Final Assembly,Nexon EV,Night,7,39.6,43.6,306.0
+EV Battery Fit,Curvv EV,Afternoon,10,39.6,44.1,408.98
+Final Assembly,Nexon EV,Morning,11,37.6,39.7,284.47
+Stamping,Tiago EV,Night,3,31.3,33.1,377.9
+Final Assembly,Tiago EV,Night,5,32.7,52.3,310.58
+Quality Check,Curvv EV,Night,8,38.5,32.8,198.24
+Body Welding,Punch EV,Morning,8,35.5,69.7,587.24
+EV Battery Fit,Nexon EV,Morning,6,38.1,45.0,377.29
+Paint Shop,Punch EV,Afternoon,10,36.2,70.0,737.28
+Chassis Mount,Punch EV,Afternoon,11,31.6,45.1,381.79
+Quality Check,Nexon EV,Afternoon,8,29.1,30.4,174.48
+Stamping,Punch EV,Night,9,31.2,22.3,361.54
+Paint Shop,Curvv EV,Night,11,40.1,90.6,948.82
+EV Battery Fit,Tiago EV,Night,5,31.5,28.4,299.23
+Body Welding,Nexon EV,Afternoon,3,30.5,62.2,655.07
+Stamping,Punch EV,Morning,9,34.0,30.5,418.84
+Paint Shop,Nexon EV,Afternoon,5,34.3,76.8,855.74
+Quality Check,Curvv EV,Morning,9,41.2,13.7,182.85
+Stamping,Tiago EV,Morning,5,31.2,45.2,453.08
+Quality Check,Tiago EV,Afternoon,10,38.1,26.9,166.58
+EV Battery Fit,Tiago EV,Afternoon,9,38.3,30.5,353.85
+Chassis Mount,Punch EV,Night,4,33.1,49.5,353.45
+Final Assembly,Punch EV,Night,9,39.2,52.1,322.51
+Chassis Mount,Tiago EV,Morning,11,30.0,29.7,249.25
+Stamping,Nexon EV,Morning,8,39.6,39.4,462.96
+Quality Check,Nexon EV,Afternoon,3,33.9,28.1,176.83
+Trim Assembly,Punch EV,Night,7,39.7,46.6,288.86
+Final Assembly,Tiago EV,Afternoon,10,41.1,43.1,288.22
+Final Assembly,Nexon EV,Night,4,36.7,51.0,310.16
+Chassis Mount,Curvv EV,Night,11,31.4,44.0,301.03
+Trim Assembly,Tiago EV,Night,3,29.9,54.2,319.12
+EV Battery Fit,Curvv EV,Night,7,38.6,44.7,503.89
+Stamping,Punch EV,Morning,9,42.0,43.2,515.95
+Quality Check,Tiago EV,Morning,10,41.6,24.7,204.06
+Stamping,Tiago EV,Afternoon,10,31.2,30.9,414.44
+Quality Check,Curvv EV,Morning,8,32.5,31.9,212.05
+Paint Shop,Tiago EV,Night,6,28.7,80.4,855.1
+Final Assembly,Tiago EV,Morning,9,35.3,35.1,232.21
+Chassis Mount,Tiago EV,Afternoon,11,29.5,45.1,404.67
+Chassis Mount,Curvv EV,Night,8,41.8,41.9,346.04
+EV Battery Fit,Tiago EV,Morning,8,36.5,38.4,358.23
+Stamping,Tiago EV,Afternoon,10,32.9,46.4,446.11
+EV Battery Fit,Tiago EV,Morning,11,36.3,43.1,379.77
+Trim Assembly,Nexon EV,Morning,5,41.4,47.3,294.54
+Quality Check,Curvv EV,Afternoon,7,28.7,18.6,164.44
+Chassis Mount,Punch EV,Morning,10,40.4,47.3,389.22
+Stamping,Curvv EV,Afternoon,5,40.2,36.1,410.8
+Chassis Mount,Nexon EV,Morning,6,36.7,34.8,310.57
+Final Assembly,Tiago EV,Night,4,39.5,43.3,332.09
+Final Assembly,Nexon EV,Night,11,36.8,56.0,339.21
+Body Welding,Curvv EV,Morning,4,32.8,51.8,562.08
+EV Battery Fit,Curvv EV,Afternoon,3,38.8,36.1,351.74
+Paint Shop,Curvv EV,Night,9,28.9,95.3,975.15
+Quality Check,Punch EV,Afternoon,4,42.0,13.4,132.05
+Body Welding,Punch EV,Night,6,37.2,60.7,569.18
+Paint Shop,Tiago EV,Afternoon,11,34.2,71.1,805.15
+EV Battery Fit,Tiago EV,Afternoon,10,30.2,35.7,314.92
+Chassis Mount,Curvv EV,Morning,5,30.6,53.1,368.7
+Final Assembly,Nexon EV,Afternoon,7,36.3,46.3,310.8
+Final Assembly,Punch EV,Afternoon,8,32.1,56.3,311.17
+Stamping,Punch EV,Morning,8,36.7,34.6,456.56
+Body Welding,Nexon EV,Morning,11,32.9,47.0,510.54
+Quality Check,Curvv EV,Morning,5,40.5,29.6,232.9
+Trim Assembly,Curvv EV,Afternoon,6,32.8,45.9,300.94
+Body Welding,Tiago EV,Afternoon,4,28.8,72.5,640.37
+Quality Check,Curvv EV,Afternoon,10,40.2,20.5,142.07
+EV Battery Fit,Tiago EV,Morning,5,29.1,47.6,377.0
+Quality Check,Punch EV,Morning,7,38.2,21.1,179.56
+Trim Assembly,Nexon EV,Afternoon,4,34.8,53.4,293.97
+Trim Assembly,Nexon EV,Night,4,36.8,40.0,259.82
+Final Assembly,Tiago EV,Afternoon,7,40.0,44.6,300.83
+EV Battery Fit,Nexon EV,Night,6,36.3,35.1,357.33
+EV Battery Fit,Tiago EV,Morning,5,34.2,47.3,345.19
+Chassis Mount,Curvv EV,Night,3,31.5,29.6,330.13
+EV Battery Fit,Tiago EV,Night,8,30.9,39.4,343.89
+Trim Assembly,Nexon EV,Afternoon,3,29.7,50.9,323.43
+Quality Check,Tiago EV,Night,4,32.8,27.8,181.15
+Body Welding,Curvv EV,Afternoon,9,30.3,59.8,587.16
+Body Welding,Punch EV,Morning,10,40.1,54.8,575.97
+Stamping,Tiago EV,Night,7,37.3,20.2,361.82
+Stamping,Nexon EV,Morning,7,35.9,31.8,409.35
+Final Assembly,Punch EV,Night,4,38.7,47.6,312.16
+Quality Check,Curvv EV,Morning,9,35.9,25.1,128.32
+Paint Shop,Punch EV,Afternoon,5,30.4,90.2,884.51
+Trim Assembly,Tiago EV,Night,9,39.4,46.4,296.47
+Chassis Mount,Punch EV,Morning,5,29.4,26.5,286.16
+EV Battery Fit,Curvv EV,Afternoon,4,33.6,49.1,407.03
+Quality Check,Tiago EV,Night,10,39.1,18.4,136.98
+Chassis Mount,Punch EV,Night,8,35.2,40.5,346.87
+Stamping,Punch EV,Morning,10,38.8,22.1,362.94
+Stamping,Tiago EV,Afternoon,6,30.1,42.1,430.67
+Stamping,Nexon EV,Night,3,30.5,26.5,384.06
+Stamping,Nexon EV,Afternoon,4,31.8,24.2,389.71
+Stamping,Tiago EV,Morning,9,32.8,38.1,407.43
+Chassis Mount,Curvv EV,Morning,5,33.6,46.9,325.69
+Trim Assembly,Curvv EV,Afternoon,7,29.0,34.2,248.37
+Final Assembly,Punch EV,Afternoon,9,33.3,37.7,261.04
+Chassis Mount,Nexon EV,Morning,11,30.4,27.6,223.03
+Quality Check,Curvv EV,Night,8,41.9,21.0,195.12
+Final Assembly,Punch EV,Afternoon,10,38.6,51.1,303.69
+Chassis Mount,Tiago EV,Afternoon,11,35.8,29.4,251.83
+Quality Check,Tiago EV,Afternoon,8,35.0,25.7,184.91
+EV Battery Fit,Curvv EV,Night,11,32.5,40.6,372.97
+Stamping,Punch EV,Night,3,36.5,29.8,379.64
+EV Battery Fit,Punch EV,Morning,6,29.9,30.1,389.6
+Chassis Mount,Punch EV,Night,6,34.2,42.3,312.67
+Paint Shop,Tiago EV,Morning,4,34.4,83.3,914.93
+Paint Shop,Nexon EV,Morning,5,30.5,87.5,897.05
+Chassis Mount,Tiago EV,Afternoon,4,29.8,34.4,334.09
+Trim Assembly,Punch EV,Afternoon,9,38.3,40.4,255.25
+Quality Check,Nexon EV,Morning,7,39.7,28.1,202.04
+Stamping,Nexon EV,Night,7,39.8,34.8,406.31
+Stamping,Curvv EV,Morning,8,33.5,48.7,460.91
+EV Battery Fit,Nexon EV,Morning,4,28.5,37.3,364.76
+Quality Check,Curvv EV,Morning,9,35.3,31.4,178.12
+Chassis Mount,Tiago EV,Morning,3,29.0,29.2,261.78
+Paint Shop,Nexon EV,Afternoon,7,37.2,84.3,908.99
+Trim Assembly,Tiago EV,Morning,10,38.8,33.6,288.45
+Stamping,Punch EV,Morning,9,28.6,39.4,476.66
+Trim Assembly,Tiago EV,Afternoon,3,41.0,40.2,288.43
+Final Assembly,Curvv EV,Morning,5,40.4,51.2,349.42
+Stamping,Tiago EV,Morning,4,36.9,38.0,460.3
+Stamping,Curvv EV,Afternoon,4,29.5,28.6,440.09
+Quality Check,Punch EV,Morning,7,36.3,10.0,154.35
+EV Battery Fit,Tiago EV,Morning,10,34.5,45.2,363.74
+Body Welding,Curvv EV,Morning,9,36.6,47.1,543.73
+Trim Assembly,Punch EV,Morning,11,41.4,46.9,262.4
+EV Battery Fit,Nexon EV,Night,6,33.4,47.7,390.01
+Chassis Mount,Tiago EV,Morning,9,34.7,36.7,321.98
+Trim Assembly,Curvv EV,Afternoon,4,36.4,42.5,294.86
+Trim Assembly,Punch EV,Afternoon,8,30.9,38.5,295.73
+Stamping,Nexon EV,Night,4,33.2,41.2,442.24
+Quality Check,Tiago EV,Night,8,41.9,43.2,282.75
+Trim Assembly,Punch EV,Morning,4,30.3,50.7,286.12
+EV Battery Fit,Curvv EV,Morning,3,34.1,27.6,331.0
+Quality Check,Tiago EV,Afternoon,3,38.9,21.3,165.46
+EV Battery Fit,Punch EV,Afternoon,8,31.7,37.9,352.78
+Final Assembly,Punch EV,Night,11,38.9,49.8,254.97
+Quality Check,Tiago EV,Afternoon,4,38.3,32.1,198.88
+Body Welding,Nexon EV,Afternoon,7,41.7,61.4,616.44
+EV Battery Fit,Nexon EV,Morning,11,28.3,37.7,392.87
+Stamping,Curvv EV,Morning,4,33.7,46.5,483.94
+Body Welding,Nexon EV,Morning,4,37.3,51.5,551.51
+Quality Check,Curvv EV,Afternoon,10,39.0,22.6,193.97
+Chassis Mount,Tiago EV,Afternoon,6,38.6,39.7,333.17
+Trim Assembly,Tiago EV,Afternoon,11,35.8,47.9,261.51
+Body Welding,Punch EV,Night,9,37.2,47.6,556.65
+EV Battery Fit,Curvv EV,Afternoon,10,33.0,31.5,268.86
+Final Assembly,Tiago EV,Afternoon,5,33.1,58.5,351.42
+EV Battery Fit,Nexon EV,Night,6,39.2,40.7,346.83
+Final Assembly,Punch EV,Morning,6,42.0,49.7,304.6
+Trim Assembly,Punch EV,Afternoon,7,41.6,34.9,266.98
+Stamping,Curvv EV,Morning,4,39.5,40.9,473.22
+Body Welding,Nexon EV,Afternoon,7,33.9,57.0,631.84
+Stamping,Curvv EV,Morning,5,28.4,22.0,352.87
+Quality Check,Punch EV,Night,11,37.2,23.2,156.84
+Stamping,Nexon EV,Morning,6,41.1,33.5,424.39
+Body Welding,Nexon EV,Night,8,37.4,47.3,534.7
+Paint Shop,Punch EV,Night,6,28.3,88.8,940.12
+Stamping,Punch EV,Night,5,39.6,41.7,559.96
+Stamping,Tiago EV,Night,6,29.6,42.5,487.14
+EV Battery Fit,Curvv EV,Morning,6,32.2,25.1,322.72
+Final Assembly,Nexon EV,Afternoon,10,30.6,57.2,332.59
+Paint Shop,Curvv EV,Night,4,36.0,70.2,813.79
+Stamping,Nexon EV,Night,4,40.3,48.7,551.81
+Trim Assembly,Tiago EV,Afternoon,11,32.8,42.2,285.95
+Quality Check,Curvv EV,Night,6,33.4,34.6,257.67
+Quality Check,Nexon EV,Morning,10,36.9,24.2,172.74
+EV Battery Fit,Tiago EV,Afternoon,6,30.9,21.5,289.83
+Paint Shop,Punch EV,Morning,9,39.2,83.8,884.44
+Stamping,Curvv EV,Morning,7,32.8,33.4,409.18
+Paint Shop,Nexon EV,Night,3,33.5,84.6,862.07
+Body Welding,Curvv EV,Night,7,28.0,63.2,608.96
+Quality Check,Punch EV,Afternoon,4,37.3,29.7,216.58
+Trim Assembly,Tiago EV,Afternoon,11,41.2,45.9,320.47
+Body Welding,Punch EV,Afternoon,5,40.8,62.6,587.66
+Stamping,Punch EV,Morning,5,34.3,35.9,395.52
+Quality Check,Nexon EV,Night,9,39.4,23.7,179.2
+Final Assembly,Punch EV,Afternoon,4,33.4,43.6,270.5
+Paint Shop,Tiago EV,Afternoon,11,28.4,84.6,856.64
+Stamping,Tiago EV,Morning,6,32.8,36.0,412.91
+Paint Shop,Tiago EV,Afternoon,3,29.4,80.9,846.61
+Stamping,Punch EV,Morning,7,31.2,36.1,423.96
+Final Assembly,Tiago EV,Afternoon,5,28.3,47.9,327.68
+Trim Assembly,Curvv EV,Afternoon,11,41.8,42.3,244.18
+Chassis Mount,Nexon EV,Morning,4,30.4,45.3,328.12
+Chassis Mount,Tiago EV,Afternoon,7,41.5,44.5,366.64
+Paint Shop,Tiago EV,Morning,4,34.8,82.3,869.06
+Trim Assembly,Nexon EV,Morning,7,35.6,34.8,270.08
+Chassis Mount,Tiago EV,Afternoon,9,29.7,34.7,307.78
+EV Battery Fit,Tiago EV,Afternoon,9,33.3,28.6,300.65
+Paint Shop,Tiago EV,Morning,4,38.2,79.1,895.9
+Paint Shop,Nexon EV,Night,10,40.0,83.1,884.75
+Final Assembly,Tiago EV,Night,7,35.1,55.2,358.43
+Final Assembly,Punch EV,Afternoon,7,33.0,57.6,359.46
+Quality Check,Tiago EV,Night,4,37.5,20.7,182.28
+Chassis Mount,Curvv EV,Morning,10,38.8,45.7,378.68
+EV Battery Fit,Nexon EV,Night,4,29.1,24.9,302.13
+Chassis Mount,Nexon EV,Afternoon,5,35.3,38.9,326.48
+EV Battery Fit,Curvv EV,Afternoon,4,29.0,25.1,327.38
+Chassis Mount,Nexon EV,Night,9,31.2,38.4,324.72
+Stamping,Punch EV,Morning,3,38.1,33.9,424.38
+Body Welding,Curvv EV,Afternoon,7,39.3,72.7,742.3
+Body Welding,Tiago EV,Night,4,29.9,50.8,541.59
+Body Welding,Curvv EV,Afternoon,8,37.9,54.9,598.8
+Paint Shop,Tiago EV,Morning,4,32.4,82.1,882.29
+Chassis Mount,Punch EV,Morning,9,34.9,39.2,300.11
+Quality Check,Nexon EV,Morning,7,41.5,16.6,156.94
+Chassis Mount,Curvv EV,Afternoon,9,35.0,41.1,278.86
+Trim Assembly,Curvv EV,Morning,9,38.7,54.9,306.95
+EV Battery Fit,Nexon EV,Afternoon,6,37.5,54.8,448.56
+Body Welding,Curvv EV,Night,8,37.0,67.4,610.48
+Stamping,Punch EV,Morning,8,35.2,23.7,346.36
+EV Battery Fit,Punch EV,Afternoon,3,29.7,36.3,341.7
+Paint Shop,Curvv EV,Morning,8,38.7,80.1,848.56
+Trim Assembly,Punch EV,Night,7,29.1,32.8,210.6
+Quality Check,Tiago EV,Afternoon,6,37.0,14.8,204.83
+Trim Assembly,Tiago EV,Night,11,35.7,48.0,297.87
+Body Welding,Tiago EV,Morning,9,37.4,56.2,576.06
+Trim Assembly,Tiago EV,Afternoon,8,33.1,39.7,275.24
+Paint Shop,Nexon EV,Morning,10,36.9,91.3,916.7
+Trim Assembly,Curvv EV,Afternoon,8,34.6,47.6,268.52
+Body Welding,Tiago EV,Afternoon,4,31.4,53.8,569.21
+Final Assembly,Punch EV,Afternoon,5,30.3,38.6,271.59
+Final Assembly,Curvv EV,Morning,6,41.3,54.7,348.5
+Paint Shop,Tiago EV,Night,8,36.7,83.4,924.57
+Quality Check,Nexon EV,Afternoon,9,38.9,23.5,206.59
+Trim Assembly,Tiago EV,Afternoon,7,31.1,52.1,288.17
+Paint Shop,Nexon EV,Morning,6,32.0,79.5,890.1
+Chassis Mount,Nexon EV,Night,5,33.5,42.0,428.78
+Trim Assembly,Curvv EV,Morning,7,33.0,40.3,288.1
+Trim Assembly,Punch EV,Night,11,28.5,41.7,376.08
+Paint Shop,Tiago EV,Afternoon,5,30.0,67.5,782.41
+Final Assembly,Punch EV,Night,6,35.0,53.3,314.02
+Stamping,Curvv EV,Night,5,35.1,38.6,425.46
+Body Welding,Curvv EV,Morning,10,37.2,40.8,508.67
+Stamping,Nexon EV,Morning,8,33.1,31.1,405.39
+Trim Assembly,Curvv EV,Night,5,28.7,40.2,302.89
+Body Welding,Punch EV,Afternoon,7,38.0,51.2,561.8
+Final Assembly,Curvv EV,Night,10,38.7,40.6,297.42
+Stamping,Curvv EV,Night,8,31.7,21.0,356.09
+Final Assembly,Nexon EV,Morning,11,30.4,49.6,304.13
+Body Welding,Nexon EV,Night,11,32.8,62.5,626.44
+Quality Check,Nexon EV,Morning,5,34.8,10.0,137.83
+Final Assembly,Nexon EV,Afternoon,4,34.1,52.4,305.0
+Stamping,Nexon EV,Night,3,32.3,26.7,441.05
+Quality Check,Punch EV,Night,10,39.4,26.8,181.7
+Body Welding,Tiago EV,Night,5,28.2,52.0,520.49
+Stamping,Nexon EV,Afternoon,7,38.3,24.2,358.34
+EV Battery Fit,Tiago EV,Morning,8,32.7,36.8,377.52
+Final Assembly,Tiago EV,Night,8,36.4,61.6,377.34
+Body Welding,Curvv EV,Morning,11,38.3,49.9,533.08
+Stamping,Curvv EV,Night,4,32.0,29.7,388.03
+Chassis Mount,Punch EV,Night,6,32.2,41.6,362.52
+EV Battery Fit,Nexon EV,Afternoon,6,31.5,46.1,367.37
+Paint Shop,Tiago EV,Morning,10,36.2,88.4,879.24
+Trim Assembly,Nexon EV,Night,6,38.2,49.1,318.83
+Body Welding,Tiago EV,Afternoon,8,32.6,57.8,588.46
+Stamping,Punch EV,Afternoon,6,30.9,22.8,367.11
+EV Battery Fit,Nexon EV,Night,11,28.2,30.2,273.61
+Quality Check,Punch EV,Afternoon,8,33.4,35.2,196.1
+Final Assembly,Tiago EV,Morning,10,41.8,57.8,326.75
+Trim Assembly,Punch EV,Morning,7,37.3,53.6,345.8
+Trim Assembly,Punch EV,Afternoon,10,34.2,49.3,283.49
+Stamping,Curvv EV,Morning,8,35.0,20.8,328.2
+Quality Check,Punch EV,Night,8,37.2,19.4,178.23
+Quality Check,Nexon EV,Night,6,34.2,16.7,179.05
+Chassis Mount,Punch EV,Night,6,40.2,36.1,288.79
+Body Welding,Curvv EV,Night,3,32.5,66.6,653.82
+Quality Check,Curvv EV,Morning,9,34.5,23.3,215.88
+Trim Assembly,Curvv EV,Night,9,34.0,39.9,280.73
+Final Assembly,Punch EV,Afternoon,3,32.8,62.6,381.91
+Body Welding,Punch EV,Morning,9,28.8,69.7,619.35
+EV Battery Fit,Nexon EV,Night,11,33.8,48.7,393.83
+Paint Shop,Punch EV,Morning,3,36.8,69.6,796.59
+Chassis Mount,Curvv EV,Night,10,37.7,36.2,251.46
+Stamping,Nexon EV,Afternoon,11,37.4,37.1,421.98
+EV Battery Fit,Punch EV,Morning,11,35.5,41.0,399.25
+Final Assembly,Tiago EV,Morning,5,40.0,45.0,332.07
+EV Battery Fit,Tiago EV,Afternoon,4,28.9,35.8,354.31
+Chassis Mount,Punch EV,Afternoon,8,34.1,35.5,297.09
+Paint Shop,Punch EV,Night,6,34.5,87.2,927.17
+Stamping,Curvv EV,Morning,4,38.8,25.9,373.96
+Chassis Mount,Punch EV,Morning,9,37.5,45.3,321.81
+Body Welding,Curvv EV,Morning,9,36.5,42.1,502.95
+Final Assembly,Curvv EV,Afternoon,8,33.4,40.0,301.85
+Paint Shop,Curvv EV,Night,3,36.2,85.2,868.68
+Stamping,Punch EV,Afternoon,11,31.7,36.4,431.18
+Chassis Mount,Curvv EV,Night,9,31.7,32.4,320.35
+Final Assembly,Nexon EV,Afternoon,6,33.2,46.3,300.72
+Chassis Mount,Punch EV,Afternoon,8,34.0,43.9,310.86
+Chassis Mount,Punch EV,Afternoon,4,38.5,44.7,443.2
+Paint Shop,Tiago EV,Morning,5,36.0,88.3,950.76
+Chassis Mount,Punch EV,Night,7,31.2,50.7,393.96
+EV Battery Fit,Nexon EV,Morning,5,36.1,54.2,421.15
+Paint Shop,Curvv EV,Night,4,32.8,68.2,897.76
+Trim Assembly,Nexon EV,Afternoon,4,33.1,49.4,315.58
+Stamping,Punch EV,Morning,8,30.2,44.8,509.77
+Chassis Mount,Punch EV,Afternoon,4,28.3,35.8,349.5
+Final Assembly,Punch EV,Afternoon,5,36.9,59.5,338.87
+Paint Shop,Curvv EV,Afternoon,10,28.9,82.0,869.33
+Final Assembly,Tiago EV,Afternoon,9,35.0,59.7,328.45
+Stamping,Tiago EV,Night,9,36.7,29.9,360.85
+Stamping,Punch EV,Afternoon,5,35.7,31.8,400.19
+Trim Assembly,Nexon EV,Night,11,41.5,38.8,255.72
+EV Battery Fit,Punch EV,Morning,10,29.8,31.8,341.12
+Quality Check,Curvv EV,Afternoon,8,40.1,20.5,169.72
+Chassis Mount,Punch EV,Afternoon,10,32.3,40.9,372.18
+Chassis Mount,Nexon EV,Afternoon,8,38.2,34.0,342.2
+Quality Check,Tiago EV,Night,9,39.8,15.5,73.08
+Paint Shop,Nexon EV,Night,5,39.2,68.2,778.27
+EV Battery Fit,Nexon EV,Morning,3,39.4,51.8,432.51
+EV Battery Fit,Nexon EV,Morning,8,29.8,37.3,359.95
+Final Assembly,Curvv EV,Afternoon,8,36.5,62.5,355.77
+Paint Shop,Nexon EV,Night,7,30.5,85.9,903.86
+Quality Check,Punch EV,Night,6,28.0,27.4,173.12
+Quality Check,Nexon EV,Morning,10,34.8,15.5,139.99
+Quality Check,Nexon EV,Morning,11,37.8,36.0,201.18
+Final Assembly,Punch EV,Afternoon,7,38.7,54.9,326.05
+Trim Assembly,Curvv EV,Afternoon,7,28.7,45.5,244.32
+Quality Check,Nexon EV,Morning,11,36.5,22.6,159.66
+Final Assembly,Tiago EV,Night,9,29.8,44.2,289.96
+Body Welding,Nexon EV,Afternoon,5,35.3,60.3,616.22
+Paint Shop,Tiago EV,Afternoon,10,41.1,85.6,897.11
+Body Welding,Tiago EV,Morning,6,41.5,59.3,681.45
+Paint Shop,Curvv EV,Afternoon,10,34.2,73.4,803.57
+Trim Assembly,Curvv EV,Afternoon,11,31.4,35.8,279.15
+Quality Check,Tiago EV,Afternoon,10,34.6,34.6,174.22
+Body Welding,Tiago EV,Night,4,40.5,69.0,657.55
+Stamping,Punch EV,Afternoon,5,32.8,44.8,411.46
+Quality Check,Punch EV,Afternoon,6,38.3,27.2,233.63
+Paint Shop,Tiago EV,Night,6,36.1,95.2,973.14
+Body Welding,Nexon EV,Morning,9,33.1,49.3,518.77
+Body Welding,Curvv EV,Morning,5,37.2,47.4,543.66
+Final Assembly,Punch EV,Afternoon,11,28.4,48.8,325.81
+Stamping,Tiago EV,Morning,8,31.2,23.7,364.66
+Final Assembly,Nexon EV,Night,10,30.2,53.5,307.61
+EV Battery Fit,Nexon EV,Afternoon,8,35.9,35.6,334.93
+EV Battery Fit,Curvv EV,Night,8,37.5,45.2,372.12
+Body Welding,Punch EV,Afternoon,4,41.6,68.8,656.94
+Paint Shop,Curvv EV,Night,5,29.1,72.7,767.2
+EV Battery Fit,Nexon EV,Morning,3,40.6,37.5,323.53
+Quality Check,Punch EV,Night,6,35.8,27.4,168.54
+Paint Shop,Curvv EV,Afternoon,10,41.6,73.0,762.87
+Chassis Mount,Curvv EV,Morning,5,29.3,34.7,310.88
+Body Welding,Punch EV,Night,9,39.7,64.6,616.07
+Body Welding,Curvv EV,Night,11,32.3,57.5,590.33
+Paint Shop,Nexon EV,Night,6,32.5,74.2,793.43
+Final Assembly,Tiago EV,Night,5,42.0,48.6,282.48
+Stamping,Punch EV,Night,5,40.4,34.2,405.24
+Quality Check,Punch EV,Morning,11,37.7,16.6,147.13
+EV Battery Fit,Punch EV,Afternoon,5,31.3,29.4,311.93
+Paint Shop,Tiago EV,Afternoon,7,38.2,68.9,767.96
+Trim Assembly,Punch EV,Night,4,28.9,64.4,300.38
+Trim Assembly,Punch EV,Morning,3,31.1,45.5,260.23
+Trim Assembly,Nexon EV,Afternoon,7,29.2,50.4,247.66
+Trim Assembly,Punch EV,Night,6,30.3,39.6,274.06
+Trim Assembly,Punch EV,Morning,6,33.7,44.4,308.42
+Paint Shop,Punch EV,Afternoon,6,40.4,75.4,851.68
+Final Assembly,Tiago EV,Night,11,30.0,42.4,266.23
+Trim Assembly,Curvv EV,Morning,4,28.4,45.6,211.13
+Quality Check,Nexon EV,Night,7,40.1,22.8,129.25
+Stamping,Tiago EV,Afternoon,7,34.0,28.7,367.19
+Quality Check,Curvv EV,Afternoon,3,40.5,30.3,187.38
+Body Welding,Nexon EV,Night,8,36.4,62.2,654.92
+Stamping,Punch EV,Morning,10,32.5,44.9,451.08
+Body Welding,Tiago EV,Night,11,42.0,52.8,528.94
+Body Welding,Punch EV,Morning,11,31.6,55.6,552.99
+Quality Check,Punch EV,Morning,4,28.7,18.0,182.51
+Body Welding,Punch EV,Afternoon,7,36.4,60.0,571.16
+Final Assembly,Curvv EV,Night,6,36.5,58.3,334.34
+Quality Check,Tiago EV,Morning,7,37.3,34.7,230.79
+Final Assembly,Tiago EV,Morning,3,39.6,40.0,309.45
+EV Battery Fit,Punch EV,Night,3,28.2,42.7,400.83
+Quality Check,Punch EV,Afternoon,7,33.4,26.8,175.92
+Paint Shop,Tiago EV,Night,8,34.2,88.6,954.38
+Quality Check,Nexon EV,Morning,4,37.4,33.1,228.03
+Paint Shop,Tiago EV,Morning,6,37.8,84.3,860.7
+Trim Assembly,Punch EV,Morning,6,34.9,48.6,310.79
+Body Welding,Punch EV,Night,9,36.2,48.2,561.75
+Final Assembly,Punch EV,Night,8,35.3,68.2,329.28
+Trim Assembly,Tiago EV,Morning,10,35.6,39.4,276.23
+Chassis Mount,Nexon EV,Morning,8,32.2,41.4,346.27
+Body Welding,Curvv EV,Night,8,35.7,49.8,544.2
+Stamping,Punch EV,Afternoon,5,37.2,45.7,419.59
+Paint Shop,Punch EV,Afternoon,7,34.2,75.8,846.71
+Stamping,Punch EV,Afternoon,11,36.4,36.0,447.24
+Chassis Mount,Curvv EV,Afternoon,3,36.7,32.1,292.5
+Trim Assembly,Tiago EV,Night,11,33.5,36.8,242.3
+Trim Assembly,Nexon EV,Morning,9,41.2,49.0,361.1
+Final Assembly,Punch EV,Afternoon,7,30.7,46.8,379.25
+Final Assembly,Curvv EV,Afternoon,10,39.2,30.1,307.81
+Quality Check,Punch EV,Morning,7,28.2,35.3,158.72
+Quality Check,Curvv EV,Morning,8,29.8,23.6,161.05
+Paint Shop,Punch EV,Night,6,32.9,83.8,917.09
+Stamping,Nexon EV,Night,7,33.8,35.4,441.88
+Chassis Mount,Curvv EV,Afternoon,7,36.5,55.5,432.37
+Quality Check,Nexon EV,Night,5,30.6,21.2,92.33
+EV Battery Fit,Punch EV,Night,6,34.6,54.4,535.9
+Final Assembly,Nexon EV,Morning,11,40.8,54.9,289.27
+EV Battery Fit,Curvv EV,Afternoon,10,34.3,33.5,364.58
+Quality Check,Punch EV,Night,7,41.3,22.3,146.31
+Quality Check,Curvv EV,Morning,6,36.1,39.2,215.49
+Chassis Mount,Curvv EV,Morning,8,36.6,43.2,336.61
+Quality Check,Tiago EV,Morning,5,41.9,36.6,200.08
+Stamping,Tiago EV,Morning,9,36.6,30.2,370.63
+Final Assembly,Nexon EV,Morning,5,30.0,50.3,265.09
+Final Assembly,Curvv EV,Afternoon,5,33.5,45.3,259.63
+Paint Shop,Tiago EV,Afternoon,3,37.2,71.6,783.44
+Quality Check,Punch EV,Night,9,38.9,12.0,166.93
+EV Battery Fit,Nexon EV,Morning,3,29.9,44.6,345.28
+Stamping,Punch EV,Afternoon,11,34.9,43.0,422.84
+Body Welding,Curvv EV,Morning,10,35.3,54.5,569.54
+Paint Shop,Nexon EV,Afternoon,4,36.8,83.5,872.08
+EV Battery Fit,Punch EV,Night,4,34.1,34.1,389.79
+Paint Shop,Tiago EV,Night,11,31.0,74.2,841.44
+Stamping,Curvv EV,Afternoon,3,28.3,44.5,427.86
+Chassis Mount,Nexon EV,Afternoon,11,40.3,37.8,331.97
+Trim Assembly,Punch EV,Morning,10,28.6,54.2,310.68
+EV Battery Fit,Nexon EV,Night,9,33.4,44.9,374.97
+Chassis Mount,Nexon EV,Afternoon,9,36.8,38.8,364.7
+Trim Assembly,Tiago EV,Morning,8,33.7,38.3,294.62
+Quality Check,Tiago EV,Night,3,37.2,19.5,166.96
+Final Assembly,Curvv EV,Night,4,32.4,52.1,334.99
+Stamping,Curvv EV,Afternoon,4,41.2,39.4,468.87
+Body Welding,Tiago EV,Night,4,28.9,48.3,550.52
+Quality Check,Nexon EV,Morning,3,36.4,19.4,154.2
+Chassis Mount,Tiago EV,Night,3,34.7,37.2,290.25
+Trim Assembly,Nexon EV,Morning,3,34.5,46.7,302.11
+Trim Assembly,Tiago EV,Afternoon,3,32.3,47.5,282.76
+Body Welding,Curvv EV,Night,5,36.8,50.3,632.75
+Chassis Mount,Punch EV,Morning,11,30.4,38.9,303.7
+Paint Shop,Punch EV,Afternoon,3,34.3,79.0,884.48
+Final Assembly,Nexon EV,Night,4,37.1,40.4,237.69
+Final Assembly,Tiago EV,Morning,11,34.1,51.2,332.44
+Chassis Mount,Nexon EV,Afternoon,4,28.0,34.3,320.89
+Stamping,Curvv EV,Morning,6,35.2,36.3,379.33
+Stamping,Curvv EV,Night,8,29.5,41.1,431.41
+Stamping,Tiago EV,Morning,9,39.4,28.4,392.48
+Body Welding,Curvv EV,Afternoon,5,39.3,60.2,589.88
+Body Welding,Nexon EV,Night,7,35.5,62.3,663.37
+Final Assembly,Punch EV,Night,10,32.3,43.7,248.75
+Paint Shop,Punch EV,Afternoon,8,41.7,83.8,913.53
+Final Assembly,Tiago EV,Afternoon,3,32.4,57.3,314.9
+Body Welding,Punch EV,Night,3,39.5,45.4,563.55
+Chassis Mount,Nexon EV,Night,8,28.2,52.6,355.51
+Quality Check,Punch EV,Afternoon,6,38.6,17.9,137.47
+Stamping,Curvv EV,Morning,8,37.2,49.0,463.21
+Stamping,Tiago EV,Night,9,31.7,40.3,443.81
+Body Welding,Punch EV,Night,3,35.1,51.5,597.04
+Stamping,Nexon EV,Morning,9,38.4,46.1,492.37
+Chassis Mount,Curvv EV,Afternoon,8,33.0,42.4,333.46
+Quality Check,Punch EV,Night,5,37.0,22.3,195.3
+Stamping,Tiago EV,Afternoon,4,34.6,37.7,397.49
+Body Welding,Tiago EV,Morning,11,36.5,53.8,523.61
+EV Battery Fit,Nexon EV,Morning,10,40.8,37.9,372.58
+Quality Check,Curvv EV,Morning,3,30.7,38.2,170.02
+Body Welding,Curvv EV,Night,10,36.4,53.1,549.2
+Body Welding,Curvv EV,Afternoon,3,34.2,61.3,592.88
+Stamping,Curvv EV,Morning,5,34.1,31.9,437.43
+EV Battery Fit,Punch EV,Morning,3,28.7,43.7,360.57
+Trim Assembly,Curvv EV,Afternoon,6,30.6,47.4,291.6
+Quality Check,Curvv EV,Night,6,38.0,38.3,224.9
+Trim Assembly,Nexon EV,Morning,10,37.5,46.1,293.09
+Chassis Mount,Nexon EV,Night,4,30.1,39.2,367.56
+Trim Assembly,Curvv EV,Afternoon,5,32.8,40.4,299.71
+Final Assembly,Tiago EV,Morning,10,34.6,45.6,324.06
+EV Battery Fit,Tiago EV,Night,7,30.5,28.3,284.42
+Stamping,Nexon EV,Afternoon,10,32.5,39.2,439.37
+Final Assembly,Punch EV,Night,8,35.4,45.1,353.19
+Chassis Mount,Punch EV,Afternoon,7,36.6,50.3,374.62
+Paint Shop,Tiago EV,Night,11,36.4,105.2,1017.8
+EV Battery Fit,Punch EV,Morning,8,38.5,33.6,351.22
+Quality Check,Nexon EV,Night,3,38.1,26.2,170.21
+Paint Shop,Curvv EV,Afternoon,10,32.7,81.4,845.78
+Body Welding,Curvv EV,Morning,11,38.8,55.9,604.83
+Body Welding,Nexon EV,Night,7,28.6,53.3,529.19
+EV Battery Fit,Punch EV,Morning,7,29.4,50.8,380.22
+Quality Check,Punch EV,Night,3,29.3,10.0,134.13
+Body Welding,Punch EV,Afternoon,5,32.8,56.5,616.24
+Body Welding,Nexon EV,Night,9,41.1,41.9,506.02
+EV Battery Fit,Nexon EV,Night,7,30.7,30.2,379.5
+Trim Assembly,Tiago EV,Night,6,38.6,42.7,270.93
+Chassis Mount,Curvv EV,Morning,3,41.8,36.9,373.34
+Chassis Mount,Nexon EV,Afternoon,7,32.2,24.7,266.22
+Trim Assembly,Nexon EV,Night,4,41.1,36.2,299.24
+EV Battery Fit,Curvv EV,Morning,5,30.9,29.7,349.66
+Paint Shop,Curvv EV,Afternoon,8,41.8,90.8,982.87
+Chassis Mount,Punch EV,Morning,5,35.6,50.9,390.77
+Quality Check,Punch EV,Morning,6,32.2,14.8,156.65
+Body Welding,Tiago EV,Afternoon,3,32.7,49.9,503.84
+EV Battery Fit,Punch EV,Night,10,32.4,47.3,436.8
+Paint Shop,Curvv EV,Afternoon,6,38.6,82.4,949.21
+Trim Assembly,Nexon EV,Night,10,38.2,42.5,265.72
+Chassis Mount,Nexon EV,Night,4,39.8,47.5,406.56
+Trim Assembly,Nexon EV,Night,9,28.1,43.4,222.71
+Quality Check,Punch EV,Morning,8,32.9,21.0,214.06
+Final Assembly,Punch EV,Morning,7,29.1,47.2,315.21
+Chassis Mount,Curvv EV,Afternoon,3,36.0,26.0,248.95
+Paint Shop,Curvv EV,Morning,10,41.0,80.5,816.72
+Stamping,Tiago EV,Morning,3,42.0,32.5,389.16
+Quality Check,Punch EV,Morning,9,29.0,39.6,232.65
+Chassis Mount,Tiago EV,Afternoon,5,37.5,35.3,354.75
+Paint Shop,Punch EV,Night,6,38.5,83.3,920.73
+EV Battery Fit,Nexon EV,Afternoon,4,29.3,36.8,362.03
+Quality Check,Nexon EV,Morning,11,38.9,36.6,192.26
+Stamping,Nexon EV,Morning,9,35.2,40.6,439.53
+Quality Check,Nexon EV,Morning,4,40.2,38.1,158.29
+Paint Shop,Punch EV,Morning,10,41.5,72.8,870.56
+Trim Assembly,Tiago EV,Afternoon,8,31.7,42.6,282.92
+Quality Check,Nexon EV,Afternoon,4,28.1,20.2,205.95
+Trim Assembly,Nexon EV,Afternoon,6,33.7,44.4,320.09
+Final Assembly,Nexon EV,Afternoon,4,32.3,42.8,310.57
+Chassis Mount,Tiago EV,Morning,10,40.3,42.0,311.78
+Final Assembly,Tiago EV,Night,5,34.2,50.2,293.21
+Stamping,Curvv EV,Morning,8,37.6,31.8,356.82
+Paint Shop,Punch EV,Night,8,32.3,72.7,830.75
+Trim Assembly,Tiago EV,Night,11,29.5,54.1,350.24
+Paint Shop,Curvv EV,Night,7,35.3,65.6,783.3
+Paint Shop,Tiago EV,Night,9,32.2,76.4,823.37
+Final Assembly,Tiago EV,Morning,8,32.2,35.3,291.68
+EV Battery Fit,Nexon EV,Morning,6,31.7,33.1,342.31
+EV Battery Fit,Tiago EV,Afternoon,4,31.1,46.9,371.32
+Chassis Mount,Curvv EV,Morning,7,37.1,41.3,327.35
+Chassis Mount,Punch EV,Night,7,41.2,36.8,337.0
+Stamping,Punch EV,Morning,5,34.1,46.7,454.86
+Final Assembly,Punch EV,Afternoon,6,39.5,38.9,326.55
+Quality Check,Nexon EV,Morning,8,36.2,23.7,184.25
+Body Welding,Nexon EV,Afternoon,4,32.4,57.0,626.97
+Body Welding,Punch EV,Morning,7,37.3,47.1,525.6
+Chassis Mount,Curvv EV,Night,10,41.8,40.9,343.9
+Final Assembly,Punch EV,Night,11,40.3,52.5,317.27
+Stamping,Curvv EV,Morning,11,29.3,44.4,492.26
+Final Assembly,Punch EV,Morning,9,36.2,50.8,346.44
+EV Battery Fit,Punch EV,Morning,5,31.6,24.3,324.64
+Body Welding,Tiago EV,Morning,4,37.5,45.8,571.64
+Body Welding,Punch EV,Afternoon,4,39.7,64.9,643.46
+Stamping,Curvv EV,Morning,11,30.3,28.2,388.7
+Trim Assembly,Nexon EV,Night,5,31.3,40.4,247.92
+Paint Shop,Nexon EV,Night,5,30.3,78.7,870.48
+EV Battery Fit,Nexon EV,Afternoon,6,30.7,27.9,356.68
+Trim Assembly,Tiago EV,Morning,11,35.2,37.2,277.12
+Trim Assembly,Punch EV,Morning,4,29.7,49.0,273.9
+Quality Check,Nexon EV,Night,8,30.4,28.4,151.94
+EV Battery Fit,Punch EV,Afternoon,3,41.8,33.8,367.81
+Paint Shop,Nexon EV,Night,4,33.4,71.7,831.67
+Stamping,Nexon EV,Afternoon,11,28.1,39.7,402.49
+Quality Check,Curvv EV,Morning,4,34.4,23.7,175.18
+Stamping,Curvv EV,Morning,4,39.1,29.0,380.06
+Stamping,Punch EV,Morning,11,32.8,35.2,400.63
+Stamping,Curvv EV,Night,4,31.4,33.6,354.95
+EV Battery Fit,Tiago EV,Night,11,38.5,29.3,325.48
+EV Battery Fit,Punch EV,Morning,3,40.4,35.3,323.19
+Chassis Mount,Curvv EV,Afternoon,8,31.9,23.9,291.24
+Paint Shop,Tiago EV,Morning,10,37.7,73.0,831.87
+Body Welding,Nexon EV,Afternoon,9,38.4,45.8,527.18
+Chassis Mount,Tiago EV,Afternoon,3,35.6,34.3,308.19
+Chassis Mount,Nexon EV,Night,3,29.8,45.7,388.89
+Trim Assembly,Nexon EV,Afternoon,9,31.0,50.4,286.44
+Trim Assembly,Punch EV,Night,8,40.6,35.6,245.64
+Stamping,Curvv EV,Night,4,39.9,27.7,357.8
+Quality Check,Tiago EV,Morning,5,34.0,28.7,185.16
+Chassis Mount,Curvv EV,Morning,10,33.5,32.4,337.69
+Final Assembly,Curvv EV,Night,11,28.3,39.8,272.65
+Paint Shop,Punch EV,Afternoon,11,28.4,82.2,848.03
+Chassis Mount,Nexon EV,Morning,7,39.8,40.5,367.92
+Body Welding,Curvv EV,Night,9,39.1,63.8,607.15
+Paint Shop,Tiago EV,Morning,3,33.3,81.8,892.27
+Paint Shop,Punch EV,Night,9,36.4,71.6,807.54
+Chassis Mount,Curvv EV,Afternoon,4,29.8,34.2,343.7
+Paint Shop,Nexon EV,Morning,5,37.0,80.9,910.63
+Final Assembly,Curvv EV,Night,7,41.1,55.3,363.23
+Trim Assembly,Nexon EV,Morning,9,41.5,49.4,307.41
+EV Battery Fit,Tiago EV,Afternoon,4,36.7,47.5,417.57
+EV Battery Fit,Nexon EV,Afternoon,4,40.1,30.3,340.61
+Body Welding,Tiago EV,Morning,7,29.5,65.9,620.98
+Trim Assembly,Tiago EV,Afternoon,7,34.9,50.1,215.96
+Body Welding,Nexon EV,Morning,8,36.0,60.8,592.3
+Chassis Mount,Tiago EV,Night,3,28.5,36.8,267.33
+Stamping,Punch EV,Morning,6,31.9,34.9,409.23
+Final Assembly,Curvv EV,Night,8,32.0,45.4,304.66
+Chassis Mount,Nexon EV,Afternoon,8,30.6,37.8,331.02
+Trim Assembly,Curvv EV,Afternoon,10,41.2,31.1,258.59
+Body Welding,Punch EV,Morning,11,37.2,52.0,555.32
+Quality Check,Curvv EV,Night,7,30.8,36.9,208.05
+Trim Assembly,Punch EV,Afternoon,8,36.9,43.7,292.58
+Quality Check,Punch EV,Afternoon,8,33.7,28.1,196.06
+Paint Shop,Nexon EV,Night,7,38.4,86.5,868.39
+Paint Shop,Nexon EV,Morning,4,28.7,78.1,847.97
+Final Assembly,Tiago EV,Afternoon,6,36.0,59.7,338.48
+Final Assembly,Curvv EV,Morning,8,32.2,42.9,334.43
+Paint Shop,Punch EV,Afternoon,10,31.4,76.6,858.93
+Final Assembly,Tiago EV,Afternoon,6,41.3,48.6,286.41
+Body Welding,Nexon EV,Afternoon,7,33.6,64.7,583.75
+Stamping,Punch EV,Morning,9,37.9,23.4,326.19
+Body Welding,Curvv EV,Afternoon,4,33.0,25.3,434.06
+Paint Shop,Curvv EV,Night,5,33.5,79.4,867.24
+Stamping,Punch EV,Night,11,30.3,40.2,419.53
+EV Battery Fit,Tiago EV,Afternoon,6,35.7,29.9,360.54
+Body Welding,Punch EV,Night,8,30.2,58.1,544.34
+Stamping,Punch EV,Night,3,39.7,45.3,508.8
+Chassis Mount,Curvv EV,Night,3,38.0,42.6,342.45
+EV Battery Fit,Tiago EV,Night,4,41.3,42.0,371.46
+Quality Check,Curvv EV,Afternoon,4,32.4,22.6,152.37
+Paint Shop,Curvv EV,Afternoon,3,40.4,63.3,776.84
+Stamping,Nexon EV,Morning,7,32.4,37.0,415.16
+EV Battery Fit,Nexon EV,Afternoon,3,32.4,31.9,349.71
+Final Assembly,Curvv EV,Afternoon,9,33.9,61.7,360.89
+Final Assembly,Tiago EV,Night,6,39.6,44.3,327.46
+EV Battery Fit,Tiago EV,Night,9,28.5,44.3,449.87
+Quality Check,Curvv EV,Night,11,34.5,24.5,135.89
+Paint Shop,Tiago EV,Night,10,35.1,83.9,892.39
+Trim Assembly,Nexon EV,Night,5,31.5,52.2,289.38
+Chassis Mount,Punch EV,Night,8,29.2,52.1,366.66
+EV Battery Fit,Curvv EV,Night,3,35.7,23.6,403.36
+EV Battery Fit,Punch EV,Afternoon,7,32.2,31.7,325.98
+EV Battery Fit,Tiago EV,Morning,4,39.2,32.0,332.38
+EV Battery Fit,Nexon EV,Afternoon,7,41.3,31.8,384.39
+Paint Shop,Tiago EV,Morning,11,41.4,80.7,886.69
+Trim Assembly,Punch EV,Night,9,30.0,31.3,301.35
+Final Assembly,Nexon EV,Morning,5,31.2,49.8,327.61
+EV Battery Fit,Nexon EV,Afternoon,3,38.7,46.2,411.84
+Chassis Mount,Curvv EV,Morning,10,35.4,41.6,316.53
+Paint Shop,Punch EV,Night,10,31.8,90.1,920.86
+Quality Check,Nexon EV,Morning,6,34.2,22.1,196.06
+Chassis Mount,Tiago EV,Afternoon,3,41.8,29.8,321.44
+EV Battery Fit,Curvv EV,Morning,4,39.2,36.2,357.19
+Quality Check,Tiago EV,Morning,4,31.2,30.1,174.32
+Chassis Mount,Punch EV,Morning,11,40.6,48.5,359.9
+Quality Check,Tiago EV,Afternoon,6,30.6,24.7,142.19
+Trim Assembly,Nexon EV,Night,3,35.3,45.1,286.47
+Paint Shop,Tiago EV,Morning,6,41.4,73.9,810.17
+Trim Assembly,Nexon EV,Morning,8,33.4,37.0,215.1
+Trim Assembly,Nexon EV,Morning,10,31.8,53.3,292.61
+Body Welding,Punch EV,Afternoon,3,34.6,56.7,615.04
+Quality Check,Punch EV,Morning,5,31.8,22.4,229.35
+Trim Assembly,Nexon EV,Night,11,34.6,51.6,287.96
+Quality Check,Tiago EV,Night,11,31.5,18.2,141.75
+Chassis Mount,Punch EV,Afternoon,5,35.6,42.7,353.84
+Body Welding,Tiago EV,Afternoon,9,33.8,58.2,596.21
+Quality Check,Nexon EV,Morning,4,38.6,22.8,215.72
+Quality Check,Curvv EV,Morning,8,37.6,21.8,138.43
+Final Assembly,Punch EV,Afternoon,7,32.1,46.0,351.89
+Quality Check,Curvv EV,Morning,6,32.6,19.7,153.32
+EV Battery Fit,Tiago EV,Night,10,35.3,43.9,371.66
+Chassis Mount,Nexon EV,Morning,8,33.2,44.9,361.76
+Final Assembly,Curvv EV,Afternoon,5,33.0,41.4,329.02
+Quality Check,Nexon EV,Night,8,34.4,41.1,232.55
+Trim Assembly,Tiago EV,Afternoon,9,33.8,37.2,238.04
+Stamping,Nexon EV,Night,9,39.6,50.3,477.65
+Body Welding,Nexon EV,Night,10,30.2,66.0,651.3
+EV Battery Fit,Curvv EV,Afternoon,3,38.7,42.6,386.04
+Quality Check,Tiago EV,Night,11,38.1,32.9,167.64
+Trim Assembly,Tiago EV,Morning,11,30.5,44.4,260.96
+Body Welding,Punch EV,Morning,6,31.3,56.2,590.51
+Final Assembly,Curvv EV,Afternoon,5,32.0,47.4,342.21
+Stamping,Curvv EV,Night,6,40.2,17.4,361.89
+Stamping,Nexon EV,Morning,7,34.5,30.0,381.51
+Paint Shop,Tiago EV,Morning,3,38.4,77.4,815.96
+Final Assembly,Nexon EV,Night,6,39.3,44.6,337.65
+Trim Assembly,Punch EV,Afternoon,8,31.0,48.2,302.64
+Chassis Mount,Nexon EV,Afternoon,7,32.5,38.5,299.9
+Trim Assembly,Punch EV,Morning,11,38.1,52.9,349.14
+Quality Check,Nexon EV,Morning,8,29.0,25.8,141.51
+EV Battery Fit,Curvv EV,Night,9,29.0,44.4,361.17
+Body Welding,Curvv EV,Afternoon,11,41.4,48.2,535.89
+Body Welding,Curvv EV,Afternoon,8,38.8,63.9,606.68
+Paint Shop,Punch EV,Afternoon,8,29.5,79.5,893.2
+Final Assembly,Nexon EV,Afternoon,8,29.6,49.3,308.64
+Chassis Mount,Curvv EV,Night,10,37.0,45.5,360.81
+Paint Shop,Nexon EV,Night,6,33.3,79.5,877.81
+EV Battery Fit,Nexon EV,Night,6,35.9,34.5,371.9
+Final Assembly,Nexon EV,Afternoon,9,34.0,61.2,340.69
+Final Assembly,Punch EV,Morning,11,40.1,47.4,303.84
+Paint Shop,Curvv EV,Night,4,31.4,76.0,840.25
+Stamping,Punch EV,Night,3,35.4,39.2,466.18
+Quality Check,Curvv EV,Night,8,37.0,15.3,178.11
+Trim Assembly,Curvv EV,Afternoon,11,37.4,59.4,355.09
+Chassis Mount,Curvv EV,Morning,8,28.4,39.4,324.04
+Stamping,Tiago EV,Afternoon,3,39.5,40.8,415.98
+Quality Check,Tiago EV,Night,7,29.4,37.4,216.14
+Body Welding,Tiago EV,Afternoon,9,28.3,61.0,569.86
+Quality Check,Curvv EV,Night,6,33.4,37.9,184.26
+Stamping,Curvv EV,Morning,4,42.0,39.8,464.06
+Final Assembly,Nexon EV,Morning,11,34.3,55.4,354.5
+Final Assembly,Curvv EV,Afternoon,3,34.4,33.0,264.0
+Chassis Mount,Tiago EV,Night,5,33.4,26.3,279.37
+Quality Check,Tiago EV,Afternoon,7,35.1,27.4,160.09
+EV Battery Fit,Nexon EV,Night,4,37.1,47.7,421.32
+Trim Assembly,Nexon EV,Morning,7,39.7,33.5,270.88
+Quality Check,Nexon EV,Afternoon,9,29.5,22.4,180.96
+Quality Check,Tiago EV,Morning,9,40.7,25.8,161.15
+Stamping,Punch EV,Morning,4,41.2,34.7,370.27
+EV Battery Fit,Punch EV,Afternoon,11,30.8,43.4,384.11
+Quality Check,Punch EV,Afternoon,7,36.6,21.2,251.66
+EV Battery Fit,Punch EV,Night,5,35.3,22.6,340.65
+Quality Check,Nexon EV,Night,7,40.0,15.2,151.29
+Trim Assembly,Tiago EV,Night,7,38.5,44.6,349.13
+Stamping,Nexon EV,Morning,6,31.2,23.2,372.81
+Body Welding,Tiago EV,Night,11,38.6,60.7,594.47
+Final Assembly,Tiago EV,Afternoon,10,36.9,37.8,294.06
+Paint Shop,Curvv EV,Night,9,34.4,75.7,859.57
+Stamping,Curvv EV,Morning,9,40.8,51.0,474.67
+Stamping,Curvv EV,Afternoon,3,41.3,33.7,364.73
+Trim Assembly,Tiago EV,Morning,8,40.2,49.4,344.45
+Quality Check,Curvv EV,Afternoon,7,28.7,31.9,203.68
+Body Welding,Punch EV,Night,3,28.7,52.9,536.48
+Chassis Mount,Curvv EV,Afternoon,8,29.1,39.4,333.44
+Chassis Mount,Nexon EV,Morning,3,36.5,35.5,322.93
+Quality Check,Punch EV,Morning,11,35.6,25.9,147.73
+Body Welding,Nexon EV,Night,5,34.8,54.8,540.96
+Trim Assembly,Nexon EV,Morning,3,28.6,52.7,255.22
+Quality Check,Curvv EV,Afternoon,8,36.5,27.1,167.95
+Final Assembly,Curvv EV,Morning,5,30.7,55.6,344.01
+Chassis Mount,Nexon EV,Night,7,31.3,37.2,373.92
+Final Assembly,Tiago EV,Night,3,35.2,47.4,300.69
+Stamping,Curvv EV,Night,7,30.4,38.5,444.29
+Chassis Mount,Nexon EV,Afternoon,10,33.2,61.6,435.93
+Paint Shop,Punch EV,Afternoon,11,31.7,91.5,899.22
+Paint Shop,Punch EV,Morning,10,38.9,82.2,915.91
+Quality Check,Curvv EV,Morning,7,28.9,17.9,179.66
+Quality Check,Punch EV,Afternoon,7,36.2,15.6,160.03
+Chassis Mount,Nexon EV,Morning,5,34.8,33.2,317.43
+Body Welding,Nexon EV,Night,6,33.5,47.8,547.15
+EV Battery Fit,Punch EV,Night,3,34.4,27.9,302.41
+Chassis Mount,Nexon EV,Night,11,31.9,42.7,302.17
+Paint Shop,Nexon EV,Night,11,31.6,89.8,919.76
+Paint Shop,Curvv EV,Afternoon,11,29.3,79.4,917.06
+Trim Assembly,Nexon EV,Morning,8,39.7,45.9,333.4
+Final Assembly,Curvv EV,Night,11,36.2,56.4,338.68
+Paint Shop,Nexon EV,Night,3,40.3,79.6,887.04
+EV Battery Fit,Tiago EV,Morning,3,39.9,43.2,397.5
+Trim Assembly,Punch EV,Night,3,41.0,45.7,302.76
+Body Welding,Tiago EV,Morning,5,38.1,57.6,560.74
+Stamping,Punch EV,Morning,9,31.8,42.6,438.45
+EV Battery Fit,Tiago EV,Morning,6,39.6,33.8,386.22
+Chassis Mount,Nexon EV,Afternoon,11,31.5,36.0,340.19
+Trim Assembly,Tiago EV,Morning,7,34.3,45.3,301.29
+EV Battery Fit,Nexon EV,Night,9,33.5,47.8,388.37
+Body Welding,Curvv EV,Night,6,36.7,46.7,533.05
+Paint Shop,Curvv EV,Morning,5,33.5,86.1,922.86
+Paint Shop,Nexon EV,Morning,8,41.2,76.2,829.04
+Body Welding,Tiago EV,Morning,3,40.8,50.6,557.72
+Stamping,Punch EV,Night,7,30.5,33.3,428.89
+EV Battery Fit,Nexon EV,Night,10,37.5,31.3,323.72
+EV Battery Fit,Nexon EV,Morning,4,40.6,37.4,367.31
+Chassis Mount,Tiago EV,Morning,8,40.5,37.7,309.22
+Final Assembly,Nexon EV,Morning,6,36.3,56.6,397.32
+Quality Check,Curvv EV,Night,7,32.2,22.2,141.7
+Body Welding,Tiago EV,Morning,10,35.4,76.1,680.29
+Paint Shop,Curvv EV,Night,5,29.3,85.8,919.07
+Stamping,Punch EV,Morning,11,30.0,36.7,439.5
+Chassis Mount,Punch EV,Morning,9,33.0,31.9,314.43
+Chassis Mount,Punch EV,Morning,9,31.3,33.9,345.33
+Chassis Mount,Punch EV,Night,5,30.5,46.2,326.66
+Quality Check,Nexon EV,Night,9,34.5,21.0,238.94
+Chassis Mount,Punch EV,Morning,5,37.3,37.2,307.91
+EV Battery Fit,Curvv EV,Night,4,36.4,42.3,390.52
+Stamping,Curvv EV,Night,8,31.5,28.0,394.51
+Trim Assembly,Curvv EV,Night,10,36.1,45.2,252.58
+Final Assembly,Punch EV,Morning,3,32.2,59.8,380.99
+Body Welding,Punch EV,Afternoon,10,32.0,44.0,512.88
+Chassis Mount,Tiago EV,Morning,5,31.7,49.5,375.86
+Trim Assembly,Punch EV,Afternoon,9,37.5,40.3,240.85
+Chassis Mount,Tiago EV,Morning,4,31.6,49.1,348.62
+Stamping,Nexon EV,Night,4,33.3,47.6,465.44
+Stamping,Curvv EV,Morning,6,33.8,38.5,424.91
+Chassis Mount,Punch EV,Afternoon,3,34.6,28.4,315.65
+EV Battery Fit,Punch EV,Night,4,29.7,41.8,389.83
+Body Welding,Curvv EV,Afternoon,9,31.2,52.6,541.25
+Quality Check,Tiago EV,Morning,4,39.7,16.2,186.5
+Trim Assembly,Curvv EV,Afternoon,11,28.6,44.5,266.6
+Quality Check,Curvv EV,Morning,3,35.0,14.6,193.57
+Chassis Mount,Nexon EV,Afternoon,7,40.4,28.6,308.6
+Quality Check,Curvv EV,Night,10,33.8,22.1,171.2
+Chassis Mount,Tiago EV,Afternoon,6,29.5,43.5,366.17
+Body Welding,Nexon EV,Night,10,30.4,43.5,522.99
+Final Assembly,Tiago EV,Morning,5,35.1,35.6,296.82
+Stamping,Nexon EV,Morning,10,30.0,37.1,442.47
+Trim Assembly,Tiago EV,Night,10,39.0,51.4,321.19
+Paint Shop,Nexon EV,Afternoon,5,31.6,92.9,955.69
+Chassis Mount,Punch EV,Night,7,31.0,31.7,294.66
+Final Assembly,Tiago EV,Morning,11,37.6,61.7,370.52
+Paint Shop,Curvv EV,Night,9,40.7,82.5,880.66
+EV Battery Fit,Punch EV,Morning,10,37.4,44.2,375.75
+Trim Assembly,Curvv EV,Afternoon,9,32.2,39.9,252.68
+Body Welding,Nexon EV,Morning,6,38.4,45.4,540.09
+Paint Shop,Nexon EV,Afternoon,11,39.1,77.8,838.07
+Final Assembly,Tiago EV,Morning,5,34.6,64.5,401.28
+Quality Check,Nexon EV,Night,3,33.0,29.0,181.13
+Quality Check,Nexon EV,Night,7,30.1,16.9,169.88
+Stamping,Punch EV,Afternoon,9,32.0,48.4,471.19
+Trim Assembly,Punch EV,Morning,6,40.5,48.7,239.08
+EV Battery Fit,Punch EV,Afternoon,6,36.2,38.2,358.04
+Stamping,Punch EV,Night,11,28.7,24.3,384.5
+Body Welding,Nexon EV,Afternoon,4,35.0,47.2,523.63
+Stamping,Tiago EV,Afternoon,7,37.5,30.8,381.72
+Trim Assembly,Punch EV,Night,11,35.9,36.5,285.94
+Chassis Mount,Tiago EV,Afternoon,5,28.5,27.7,300.42
+Paint Shop,Tiago EV,Night,11,31.4,71.6,805.75
+Body Welding,Tiago EV,Afternoon,7,34.7,70.0,652.47
+Final Assembly,Tiago EV,Night,5,29.5,41.0,277.32
+EV Battery Fit,Tiago EV,Morning,9,32.1,35.7,344.63
+Quality Check,Nexon EV,Afternoon,4,32.7,20.8,185.04
+Paint Shop,Tiago EV,Afternoon,5,41.0,66.5,759.52
+Stamping,Nexon EV,Night,4,40.2,28.7,378.75
+Quality Check,Punch EV,Morning,5,36.1,19.6,119.36
+EV Battery Fit,Tiago EV,Morning,7,29.4,47.5,361.61
+Chassis Mount,Tiago EV,Morning,5,39.2,51.2,371.0
+Stamping,Curvv EV,Morning,5,28.2,25.2,348.48
+Quality Check,Punch EV,Morning,11,37.1,22.6,147.41
+Quality Check,Tiago EV,Night,8,36.2,23.4,185.62
+Body Welding,Nexon EV,Morning,5,41.4,55.1,589.64
+Final Assembly,Tiago EV,Afternoon,7,28.6,45.8,217.46
+Body Welding,Nexon EV,Afternoon,4,41.2,64.6,643.31
+Quality Check,Curvv EV,Night,9,30.6,29.5,212.46
+Chassis Mount,Tiago EV,Night,8,34.0,48.2,331.57
+EV Battery Fit,Nexon EV,Night,4,36.5,28.5,338.33
+Trim Assembly,Punch EV,Morning,3,30.8,44.4,254.33
+Stamping,Curvv EV,Morning,10,29.9,32.8,428.58
+Final Assembly,Punch EV,Night,5,30.2,47.9,271.6
+Final Assembly,Punch EV,Afternoon,10,36.1,54.2,313.61
+Trim Assembly,Curvv EV,Afternoon,11,34.6,50.2,322.49
+Chassis Mount,Punch EV,Morning,9,36.2,22.2,277.13
+Final Assembly,Nexon EV,Night,6,41.7,37.0,233.64
+Trim Assembly,Curvv EV,Night,11,30.1,32.5,235.59
+Paint Shop,Nexon EV,Night,3,28.4,73.9,776.59
+Trim Assembly,Tiago EV,Night,6,33.8,38.2,273.47
+Final Assembly,Curvv EV,Afternoon,3,39.0,42.5,311.77
+Stamping,Nexon EV,Night,5,39.8,40.2,492.62
+Chassis Mount,Nexon EV,Afternoon,9,32.3,44.1,350.94
+EV Battery Fit,Curvv EV,Morning,10,38.1,40.1,372.64
+Trim Assembly,Curvv EV,Morning,6,38.1,25.3,238.6
+Trim Assembly,Curvv EV,Morning,3,34.6,35.0,232.88
+Body Welding,Nexon EV,Afternoon,8,28.0,47.3,533.58
+Body Welding,Curvv EV,Night,9,37.6,46.0,626.8
+Paint Shop,Tiago EV,Afternoon,7,37.3,78.8,830.18
+Chassis Mount,Nexon EV,Night,10,41.6,38.2,321.32
+Final Assembly,Curvv EV,Morning,4,40.3,47.3,344.06
+Quality Check,Curvv EV,Afternoon,6,39.2,20.4,126.08
+Trim Assembly,Tiago EV,Night,11,30.4,51.9,313.78
+Quality Check,Punch EV,Morning,6,40.6,11.3,127.27
+Paint Shop,Nexon EV,Afternoon,8,37.5,72.6,791.84
+Paint Shop,Nexon EV,Night,6,31.1,64.5,800.55
+Paint Shop,Punch EV,Night,6,36.4,81.3,818.21
+Body Welding,Punch EV,Night,10,34.3,68.4,626.23
+Chassis Mount,Nexon EV,Morning,4,29.5,47.9,362.95
+Chassis Mount,Curvv EV,Morning,9,34.0,27.2,305.23
+Paint Shop,Tiago EV,Night,10,34.0,80.6,830.94
+Chassis Mount,Nexon EV,Night,7,30.8,28.6,331.09
+Quality Check,Curvv EV,Afternoon,4,34.1,10.0,146.61
+Body Welding,Punch EV,Night,9,31.5,54.9,536.74
+Trim Assembly,Curvv EV,Morning,5,30.0,41.6,245.64
+Trim Assembly,Punch EV,Afternoon,9,31.1,42.6,272.08
+Stamping,Tiago EV,Afternoon,9,36.3,32.5,383.0
+EV Battery Fit,Nexon EV,Afternoon,3,31.7,51.5,437.39
+Trim Assembly,Punch EV,Afternoon,7,38.4,50.0,330.04
+Trim Assembly,Nexon EV,Night,3,31.0,34.2,243.19
+EV Battery Fit,Tiago EV,Morning,4,29.1,25.0,282.96
+Final Assembly,Punch EV,Night,5,28.4,60.9,369.98
+EV Battery Fit,Nexon EV,Afternoon,8,40.0,44.8,363.4
+Quality Check,Nexon EV,Afternoon,11,31.5,19.4,186.54
+Quality Check,Tiago EV,Night,8,28.5,25.7,180.63
+Final Assembly,Curvv EV,Afternoon,6,32.5,48.2,309.42
+Paint Shop,Nexon EV,Afternoon,3,35.1,78.9,882.16
+Trim Assembly,Punch EV,Night,3,30.2,44.6,321.82
+Trim Assembly,Punch EV,Afternoon,7,35.3,47.6,270.09
+Final Assembly,Curvv EV,Afternoon,3,32.1,51.3,340.37
+Final Assembly,Punch EV,Night,8,32.2,39.4,309.31
+EV Battery Fit,Curvv EV,Night,10,38.1,43.5,403.89
+Stamping,Curvv EV,Morning,4,35.8,36.2,415.25
+EV Battery Fit,Punch EV,Morning,7,35.4,28.7,301.44
+Final Assembly,Tiago EV,Night,10,39.0,51.9,343.39
+Trim Assembly,Nexon EV,Morning,9,36.9,37.5,237.85
+Quality Check,Tiago EV,Afternoon,3,41.1,26.6,201.67
+Stamping,Curvv EV,Night,10,30.6,25.6,362.85
+EV Battery Fit,Nexon EV,Afternoon,9,35.4,58.4,429.58
+Body Welding,Curvv EV,Night,10,29.6,53.2,543.96
+Chassis Mount,Nexon EV,Morning,5,29.5,41.8,341.38
+Paint Shop,Punch EV,Morning,9,36.3,76.7,834.0
+Final Assembly,Punch EV,Afternoon,6,29.2,52.5,342.97
+Trim Assembly,Tiago EV,Morning,8,39.3,38.2,222.2
+Final Assembly,Tiago EV,Morning,10,38.7,53.5,337.33
+EV Battery Fit,Punch EV,Afternoon,9,39.0,42.1,392.95
+Stamping,Curvv EV,Night,8,34.0,39.8,454.24
+Chassis Mount,Nexon EV,Morning,6,37.0,32.0,306.66
+Quality Check,Punch EV,Night,5,41.2,37.1,240.14
+Chassis Mount,Curvv EV,Night,7,30.3,54.2,348.48
+Trim Assembly,Tiago EV,Morning,7,36.1,36.8,223.43
+Chassis Mount,Tiago EV,Afternoon,8,29.5,29.9,298.94
+Stamping,Curvv EV,Afternoon,10,29.6,19.5,316.22
+Trim Assembly,Nexon EV,Afternoon,4,29.5,48.8,288.19
+Paint Shop,Punch EV,Afternoon,7,36.0,66.8,797.83
+Body Welding,Punch EV,Afternoon,10,36.1,49.3,547.05
+Trim Assembly,Punch EV,Night,4,31.9,49.2,307.66
+Chassis Mount,Tiago EV,Morning,8,37.2,44.1,353.52
+Final Assembly,Punch EV,Morning,5,38.6,52.9,318.26
+EV Battery Fit,Nexon EV,Night,10,34.1,37.8,345.56
+Paint Shop,Punch EV,Night,6,38.8,85.5,890.6
+EV Battery Fit,Curvv EV,Afternoon,3,39.2,35.7,335.98
+EV Battery Fit,Tiago EV,Morning,10,36.4,43.7,376.64
+Chassis Mount,Punch EV,Night,10,41.1,41.8,350.33
+Paint Shop,Tiago EV,Afternoon,4,39.1,67.9,789.85
+Body Welding,Nexon EV,Afternoon,10,36.9,57.2,556.75
+Body Welding,Curvv EV,Afternoon,3,37.0,59.4,570.9
+Trim Assembly,Punch EV,Morning,11,29.5,43.4,281.48
+EV Battery Fit,Nexon EV,Morning,7,31.7,23.9,300.12
+Trim Assembly,Nexon EV,Night,5,41.1,41.3,284.56
+Chassis Mount,Nexon EV,Morning,3,39.4,39.8,386.96
+Final Assembly,Tiago EV,Afternoon,3,29.1,65.9,356.55
+EV Battery Fit,Curvv EV,Night,8,35.5,32.7,403.37
+Paint Shop,Curvv EV,Night,8,34.3,75.7,821.33
+Trim Assembly,Curvv EV,Night,7,33.8,48.2,291.98
+Chassis Mount,Nexon EV,Afternoon,7,35.5,37.3,345.26
+Body Welding,Tiago EV,Afternoon,11,31.7,50.4,525.18
+EV Battery Fit,Curvv EV,Morning,5,32.2,32.2,389.21
+Quality Check,Nexon EV,Afternoon,10,32.7,27.2,137.96
+Chassis Mount,Nexon EV,Afternoon,11,41.1,43.4,384.32
+Chassis Mount,Tiago EV,Afternoon,4,36.0,44.2,338.16
+Paint Shop,Curvv EV,Morning,3,34.9,80.1,895.2
+Stamping,Tiago EV,Night,6,31.7,27.7,351.33
+Chassis Mount,Curvv EV,Night,3,41.3,29.7,302.43
+Final Assembly,Curvv EV,Morning,8,39.8,52.2,290.47
+EV Battery Fit,Nexon EV,Morning,7,38.1,40.7,388.96
+Stamping,Punch EV,Night,6,40.3,37.8,383.0
+EV Battery Fit,Tiago EV,Night,3,32.1,39.0,345.33
+Quality Check,Nexon EV,Night,8,37.9,29.8,204.65
+Trim Assembly,Curvv EV,Night,10,40.2,44.1,275.96
+Stamping,Tiago EV,Night,11,36.1,40.6,379.96
+Paint Shop,Punch EV,Morning,4,35.7,86.3,894.77
+EV Battery Fit,Curvv EV,Night,5,37.6,36.0,313.47
+Final Assembly,Punch EV,Afternoon,3,35.5,50.3,307.42
+Chassis Mount,Nexon EV,Morning,5,38.8,42.4,342.38
+Body Welding,Curvv EV,Night,3,41.8,62.8,621.59
+Stamping,Punch EV,Night,3,31.7,40.0,455.02
+EV Battery Fit,Punch EV,Afternoon,4,38.0,38.3,374.95
+EV Battery Fit,Punch EV,Afternoon,10,40.0,34.3,311.68
+Quality Check,Punch EV,Afternoon,7,34.3,11.0,120.63
+Chassis Mount,Curvv EV,Night,8,38.2,47.9,324.29
+Stamping,Punch EV,Morning,5,32.1,44.8,451.72
+Quality Check,Nexon EV,Night,8,39.6,18.8,210.06
+Final Assembly,Curvv EV,Morning,7,29.3,55.0,333.56
+Trim Assembly,Tiago EV,Night,4,37.8,41.0,282.35
+Stamping,Punch EV,Afternoon,6,32.5,39.9,458.75
+Trim Assembly,Nexon EV,Afternoon,11,41.3,44.2,279.98
+Stamping,Tiago EV,Afternoon,11,28.5,25.0,305.61
+Quality Check,Tiago EV,Morning,9,28.5,21.9,163.41
+Body Welding,Punch EV,Afternoon,4,31.5,44.3,478.31
+Final Assembly,Tiago EV,Afternoon,3,34.1,54.0,360.25
+Quality Check,Nexon EV,Afternoon,8,32.7,32.8,205.9
+Stamping,Nexon EV,Night,4,33.9,21.2,326.33
+Chassis Mount,Punch EV,Afternoon,10,31.1,47.5,395.58
+Final Assembly,Tiago EV,Afternoon,11,38.8,50.8,355.17
+Stamping,Curvv EV,Morning,7,40.6,38.4,431.32
+Quality Check,Curvv EV,Night,11,38.4,14.3,128.59
+Paint Shop,Curvv EV,Morning,5,39.8,71.0,851.68
+Paint Shop,Curvv EV,Morning,4,29.9,83.4,864.43
+Quality Check,Nexon EV,Morning,7,32.0,21.0,184.28
+Trim Assembly,Punch EV,Night,5,39.4,45.7,295.38
+Final Assembly,Punch EV,Morning,3,37.9,48.1,311.36
+EV Battery Fit,Tiago EV,Afternoon,9,34.7,29.0,302.44
+Trim Assembly,Tiago EV,Morning,4,33.8,40.5,251.76
+Paint Shop,Tiago EV,Night,3,39.3,85.2,906.69
+Chassis Mount,Punch EV,Afternoon,3,40.1,30.8,279.59
+Body Welding,Punch EV,Morning,7,38.3,53.0,546.02
+Body Welding,Curvv EV,Afternoon,7,31.6,51.3,543.32
+Paint Shop,Tiago EV,Night,7,38.4,71.3,840.02
+Final Assembly,Curvv EV,Night,8,28.5,53.6,309.37
+Chassis Mount,Tiago EV,Morning,7,37.1,48.0,347.54
+Paint Shop,Punch EV,Afternoon,3,29.0,84.3,917.76
+Paint Shop,Curvv EV,Night,9,28.6,86.8,915.22
+Body Welding,Nexon EV,Morning,10,39.1,72.6,666.88
+Trim Assembly,Punch EV,Morning,6,41.1,55.6,327.96
+EV Battery Fit,Nexon EV,Morning,11,31.5,35.2,365.45
+Stamping,Tiago EV,Morning,5,41.0,36.0,432.69
+Trim Assembly,Punch EV,Morning,5,38.3,37.0,285.09
+Paint Shop,Curvv EV,Afternoon,6,37.1,93.1,961.44
+Chassis Mount,Punch EV,Night,11,38.8,32.2,330.32
+EV Battery Fit,Tiago EV,Night,6,39.5,30.7,350.78
+Quality Check,Nexon EV,Night,4,28.6,25.5,124.09
+Quality Check,Nexon EV,Afternoon,7,33.1,23.3,261.66
+Chassis Mount,Nexon EV,Afternoon,10,28.5,47.7,324.17
+Trim Assembly,Tiago EV,Morning,11,33.9,47.4,309.48
+Final Assembly,Punch EV,Night,7,31.0,43.1,259.74
+Trim Assembly,Curvv EV,Afternoon,4,39.2,47.1,375.12
+Body Welding,Nexon EV,Morning,6,33.8,35.1,492.02
+EV Battery Fit,Nexon EV,Night,8,38.6,52.9,416.25
+Trim Assembly,Tiago EV,Night,4,32.3,41.9,281.97
+Body Welding,Nexon EV,Night,11,38.9,43.2,542.23
+Trim Assembly,Tiago EV,Night,11,37.5,47.9,265.08
+Chassis Mount,Punch EV,Afternoon,4,34.2,33.2,319.55
+Trim Assembly,Punch EV,Night,9,37.3,48.8,278.95
+Trim Assembly,Nexon EV,Morning,4,29.5,68.9,358.56
+Body Welding,Tiago EV,Night,11,34.2,54.5,519.33
+Trim Assembly,Curvv EV,Night,8,40.7,55.4,345.32
+EV Battery Fit,Tiago EV,Afternoon,11,36.2,37.8,371.24
+Stamping,Nexon EV,Morning,10,37.6,28.8,395.77
+Paint Shop,Punch EV,Night,11,41.2,75.9,829.85
+Body Welding,Tiago EV,Night,10,28.1,75.3,656.76
+EV Battery Fit,Curvv EV,Night,10,28.2,42.7,379.82
+Body Welding,Curvv EV,Morning,3,41.4,55.0,550.71
+Final Assembly,Nexon EV,Morning,3,31.1,62.3,377.49
+Chassis Mount,Punch EV,Afternoon,8,35.4,39.3,307.04
+EV Battery Fit,Tiago EV,Night,8,40.3,41.5,354.33
+Quality Check,Tiago EV,Afternoon,9,28.8,22.0,173.23
+Quality Check,Punch EV,Night,8,36.6,20.0,153.97
+Trim Assembly,Tiago EV,Morning,6,33.4,41.3,290.36
+Trim Assembly,Punch EV,Night,10,41.7,55.1,262.43
+Stamping,Nexon EV,Afternoon,5,32.0,36.1,411.46
+EV Battery Fit,Tiago EV,Afternoon,7,38.6,40.6,404.49
+Final Assembly,Curvv EV,Morning,9,30.8,49.8,292.22
+Stamping,Curvv EV,Afternoon,6,37.5,33.5,400.56
+Trim Assembly,Curvv EV,Afternoon,4,35.3,52.5,335.57
+Final Assembly,Curvv EV,Morning,8,31.2,67.0,323.62
+EV Battery Fit,Nexon EV,Afternoon,4,28.3,30.4,289.25
+Quality Check,Tiago EV,Afternoon,10,34.2,10.0,133.01
+Paint Shop,Tiago EV,Night,6,28.2,85.9,872.75
+Body Welding,Tiago EV,Morning,6,38.0,49.3,529.8
+Body Welding,Curvv EV,Morning,11,38.1,47.8,562.44
+Stamping,Tiago EV,Afternoon,10,40.6,35.2,395.61
+Chassis Mount,Nexon EV,Morning,10,28.3,32.1,315.49
+Trim Assembly,Nexon EV,Morning,10,40.0,56.4,344.74
+Paint Shop,Curvv EV,Night,6,38.2,76.1,835.1
+Stamping,Punch EV,Afternoon,7,31.5,34.2,404.41
+Paint Shop,Tiago EV,Night,3,37.5,101.1,1027.61
+Paint Shop,Nexon EV,Night,11,28.8,89.0,905.61
+Trim Assembly,Tiago EV,Afternoon,6,28.7,59.5,332.76
+Quality Check,Punch EV,Morning,6,37.3,21.4,125.93
+Chassis Mount,Tiago EV,Night,6,35.6,47.9,340.54
+Quality Check,Punch EV,Night,8,29.1,16.7,144.0
+EV Battery Fit,Curvv EV,Night,4,35.8,28.2,319.01
+Final Assembly,Curvv EV,Afternoon,9,28.8,45.3,265.13
+Final Assembly,Tiago EV,Afternoon,11,31.5,59.8,312.15
+Final Assembly,Punch EV,Morning,11,37.9,48.9,273.16
+Trim Assembly,Tiago EV,Morning,6,29.5,68.9,376.84
+Body Welding,Punch EV,Afternoon,6,38.4,50.1,533.35
+Trim Assembly,Curvv EV,Afternoon,8,39.3,29.4,250.51
+Paint Shop,Punch EV,Afternoon,6,39.4,85.5,895.32
+Chassis Mount,Curvv EV,Morning,9,40.4,37.9,352.64
+Body Welding,Nexon EV,Night,11,37.1,24.3,405.16
+Body Welding,Tiago EV,Night,4,31.8,51.4,588.84
+Trim Assembly,Nexon EV,Morning,3,32.0,40.9,268.79
+Trim Assembly,Punch EV,Afternoon,7,38.9,34.3,280.14
+Chassis Mount,Nexon EV,Night,11,37.4,34.4,280.11
+EV Battery Fit,Tiago EV,Afternoon,9,33.5,47.5,511.25
+Quality Check,Nexon EV,Night,9,40.6,23.6,180.93
+Chassis Mount,Punch EV,Morning,7,41.6,36.8,276.98
+Body Welding,Punch EV,Afternoon,10,37.6,53.5,571.25
+Stamping,Nexon EV,Night,5,31.5,35.0,402.32
+EV Battery Fit,Curvv EV,Afternoon,4,31.5,40.5,328.1
+Paint Shop,Nexon EV,Afternoon,6,28.4,85.9,917.97
+Stamping,Tiago EV,Afternoon,7,38.0,30.1,438.05
+Stamping,Curvv EV,Morning,11,35.6,28.7,411.69
+Final Assembly,Nexon EV,Night,4,40.1,64.0,391.05
+Body Welding,Curvv EV,Morning,8,34.0,56.9,571.07
+Final Assembly,Curvv EV,Night,6,30.4,41.1,250.5
+Quality Check,Punch EV,Night,6,34.6,24.8,154.48
+Final Assembly,Nexon EV,Afternoon,4,29.7,56.3,381.2
+Final Assembly,Punch EV,Night,4,33.0,59.8,340.23
+Stamping,Nexon EV,Afternoon,6,35.4,30.8,403.01
+Paint Shop,Tiago EV,Morning,11,34.9,76.1,812.77
+Body Welding,Nexon EV,Afternoon,3,40.8,44.4,535.37
+Chassis Mount,Tiago EV,Night,5,30.0,43.1,294.08
+Trim Assembly,Nexon EV,Afternoon,5,33.0,51.6,326.58
+Final Assembly,Curvv EV,Afternoon,4,36.1,53.6,373.98
+Trim Assembly,Nexon EV,Morning,8,38.6,38.3,288.33
+Trim Assembly,Punch EV,Afternoon,8,40.5,44.7,293.45
+Quality Check,Tiago EV,Morning,6,30.5,11.1,167.84
+Final Assembly,Curvv EV,Afternoon,11,37.1,57.4,340.18
+Stamping,Curvv EV,Night,3,30.5,37.3,439.97
+Quality Check,Nexon EV,Afternoon,3,29.5,24.7,162.19
+Trim Assembly,Curvv EV,Afternoon,4,41.4,46.7,342.74
+Stamping,Curvv EV,Afternoon,4,28.7,33.6,401.47
+Final Assembly,Tiago EV,Afternoon,3,29.3,39.7,280.75
+Final Assembly,Nexon EV,Afternoon,6,36.1,53.1,328.66
+Trim Assembly,Punch EV,Afternoon,10,33.5,39.0,286.3
+Trim Assembly,Tiago EV,Night,4,33.1,42.0,255.92
+Chassis Mount,Punch EV,Morning,6,28.6,38.1,312.57
+Chassis Mount,Curvv EV,Morning,8,38.1,43.1,328.74
+Body Welding,Nexon EV,Morning,5,32.7,54.2,583.12
+Quality Check,Nexon EV,Morning,7,32.9,19.9,158.89
+Chassis Mount,Curvv EV,Night,5,31.0,46.2,376.64
+Paint Shop,Nexon EV,Night,8,29.2,80.0,882.86
+Chassis Mount,Nexon EV,Night,7,30.7,30.6,271.85
+EV Battery Fit,Punch EV,Night,9,37.2,52.1,370.24
+Stamping,Tiago EV,Night,8,31.6,36.2,434.87
+Trim Assembly,Tiago EV,Afternoon,6,29.5,54.8,334.33
+Chassis Mount,Punch EV,Morning,7,41.6,40.5,291.66
+Quality Check,Curvv EV,Afternoon,3,39.2,35.4,243.78
+Quality Check,Punch EV,Afternoon,4,41.7,24.5,142.43
+Chassis Mount,Punch EV,Morning,6,39.4,36.6,329.79
+Stamping,Curvv EV,Afternoon,11,30.7,39.6,405.87
+Chassis Mount,Punch EV,Night,6,29.1,46.6,304.44
+Paint Shop,Tiago EV,Night,10,32.0,76.5,829.6
+EV Battery Fit,Nexon EV,Night,9,39.1,31.9,331.49
+Chassis Mount,Nexon EV,Morning,9,28.1,30.9,360.04
+Final Assembly,Curvv EV,Night,4,36.3,49.1,334.5
+Final Assembly,Tiago EV,Night,6,40.1,40.2,290.58
+Final Assembly,Tiago EV,Morning,9,32.5,48.5,283.54
+Quality Check,Tiago EV,Night,11,30.6,34.4,201.13
+Paint Shop,Punch EV,Afternoon,4,36.1,82.2,884.81
+Paint Shop,Curvv EV,Morning,6,38.4,85.7,945.53
+Stamping,Curvv EV,Morning,10,40.7,40.1,416.47
+Paint Shop,Curvv EV,Night,11,30.4,89.2,939.91
+Paint Shop,Nexon EV,Night,3,36.3,80.4,860.61
+Paint Shop,Tiago EV,Afternoon,4,33.0,96.3,1015.67
+Body Welding,Tiago EV,Morning,9,37.8,56.6,535.78
+Stamping,Punch EV,Morning,9,28.2,47.7,427.7
+Trim Assembly,Punch EV,Night,6,31.6,50.1,280.7
+EV Battery Fit,Punch EV,Morning,3,40.1,40.1,353.62
+Stamping,Tiago EV,Night,3,31.8,24.1,366.26
+Body Welding,Nexon EV,Night,7,40.8,51.4,515.26
+Final Assembly,Tiago EV,Morning,5,32.6,44.9,266.7
+EV Battery Fit,Punch EV,Night,5,34.3,41.4,363.37
+Paint Shop,Curvv EV,Afternoon,7,38.2,63.6,781.51
+Quality Check,Tiago EV,Morning,5,28.3,25.4,171.38
+Trim Assembly,Curvv EV,Morning,11,35.4,49.6,337.06
+Paint Shop,Curvv EV,Morning,5,28.3,86.2,910.88
+EV Battery Fit,Tiago EV,Night,8,35.9,42.2,350.43
+Body Welding,Punch EV,Night,8,41.2,60.4,544.03
+Final Assembly,Tiago EV,Night,11,28.3,46.6,327.29
+Quality Check,Tiago EV,Morning,4,37.3,15.7,141.14
+Final Assembly,Tiago EV,Afternoon,3,30.9,59.2,339.59
+Quality Check,Punch EV,Afternoon,6,33.2,17.2,172.76
+Quality Check,Punch EV,Afternoon,10,32.6,15.5,115.72
+Body Welding,Punch EV,Afternoon,6,36.7,51.9,570.73
+Trim Assembly,Nexon EV,Morning,3,38.6,44.8,306.7
+Chassis Mount,Punch EV,Afternoon,9,28.6,36.0,274.11
+Stamping,Punch EV,Morning,9,40.8,19.0,286.83
+Chassis Mount,Tiago EV,Night,3,37.2,41.7,398.15
+EV Battery Fit,Punch EV,Night,5,35.0,22.8,317.75
+Final Assembly,Nexon EV,Night,7,32.9,58.5,420.58
+Stamping,Nexon EV,Night,10,31.8,42.2,411.54
+Quality Check,Curvv EV,Night,7,41.1,19.5,144.8
+Quality Check,Tiago EV,Night,4,31.7,17.2,106.31
+Chassis Mount,Curvv EV,Afternoon,7,38.2,31.3,274.9
+Body Welding,Tiago EV,Afternoon,6,32.1,52.6,557.0
+EV Battery Fit,Tiago EV,Afternoon,10,39.7,45.0,406.04
+Quality Check,Curvv EV,Morning,7,28.3,28.1,218.58
+Final Assembly,Punch EV,Afternoon,5,31.7,54.0,298.8
+Body Welding,Tiago EV,Night,10,35.1,54.0,578.91
+Trim Assembly,Nexon EV,Afternoon,7,36.4,38.4,328.68
+Quality Check,Curvv EV,Night,9,33.1,21.7,148.58
+EV Battery Fit,Curvv EV,Afternoon,8,28.9,29.4,332.44
+Body Welding,Punch EV,Afternoon,3,33.3,60.2,564.47
+Quality Check,Punch EV,Night,5,36.6,41.5,204.12
+EV Battery Fit,Tiago EV,Morning,10,33.9,24.5,328.97
+Stamping,Punch EV,Afternoon,6,29.4,39.2,476.62
+Trim Assembly,Tiago EV,Morning,7,31.6,57.2,331.42
+Stamping,Curvv EV,Morning,6,33.2,19.4,338.66
+EV Battery Fit,Tiago EV,Night,4,32.7,40.9,411.39
+EV Battery Fit,Nexon EV,Night,9,33.8,41.4,325.07
+Body Welding,Tiago EV,Morning,3,31.3,49.5,520.8
+Stamping,Tiago EV,Morning,9,37.0,32.5,406.35
+Body Welding,Nexon EV,Morning,9,39.0,65.4,627.99
+Chassis Mount,Curvv EV,Night,6,33.6,31.5,295.72
+Body Welding,Curvv EV,Morning,11,35.7,57.4,568.52
+Stamping,Tiago EV,Morning,6,37.5,39.4,414.41
+Quality Check,Tiago EV,Night,9,36.4,17.3,183.04
+Quality Check,Curvv EV,Night,9,41.1,37.8,188.57
+Final Assembly,Curvv EV,Night,10,35.8,61.3,326.73
+Body Welding,Curvv EV,Night,10,37.9,54.3,590.96
+Final Assembly,Nexon EV,Afternoon,9,30.5,50.1,333.61
+Quality Check,Punch EV,Morning,7,34.9,16.0,148.79
+Stamping,Tiago EV,Night,7,39.3,28.8,391.61
+Final Assembly,Punch EV,Night,11,41.3,35.9,279.35
+Chassis Mount,Punch EV,Night,6,32.7,39.1,354.81
+Final Assembly,Nexon EV,Night,7,40.2,50.6,298.38
+EV Battery Fit,Tiago EV,Morning,4,37.8,50.5,433.32
+Final Assembly,Tiago EV,Morning,8,40.0,53.6,326.53
+Quality Check,Curvv EV,Afternoon,9,35.7,28.6,186.03
+Chassis Mount,Tiago EV,Afternoon,4,34.8,32.5,317.78
+Stamping,Nexon EV,Afternoon,11,36.7,37.8,477.61
+EV Battery Fit,Tiago EV,Night,10,28.3,42.2,343.38
+Chassis Mount,Curvv EV,Night,4,38.7,28.8,295.13
+Stamping,Curvv EV,Night,7,40.5,34.4,421.48
+Stamping,Curvv EV,Morning,4,33.8,39.0,453.81
+Quality Check,Punch EV,Morning,6,32.0,23.6,214.84
+Chassis Mount,Curvv EV,Morning,10,41.0,37.0,296.49
+Paint Shop,Punch EV,Night,7,29.8,72.2,819.16
+Body Welding,Nexon EV,Night,4,30.8,56.2,564.64
+Chassis Mount,Nexon EV,Morning,9,29.9,52.6,386.82
+Paint Shop,Nexon EV,Afternoon,8,29.8,76.2,817.9
+Paint Shop,Punch EV,Morning,6,37.0,72.0,809.94
+Final Assembly,Punch EV,Night,9,31.4,53.2,296.74
+Stamping,Tiago EV,Morning,11,35.1,38.4,408.93
+Chassis Mount,Tiago EV,Night,10,34.0,42.7,352.06
+Stamping,Nexon EV,Night,4,31.1,36.0,423.8
+Trim Assembly,Nexon EV,Morning,10,38.2,30.9,280.23
+Stamping,Curvv EV,Morning,5,30.6,43.6,445.25
+Stamping,Curvv EV,Afternoon,9,37.3,27.0,401.01
+EV Battery Fit,Curvv EV,Night,8,41.5,34.1,366.49
+Trim Assembly,Curvv EV,Morning,6,37.2,38.8,266.73
+Body Welding,Punch EV,Night,9,40.3,59.7,604.99
+Quality Check,Nexon EV,Night,3,39.8,30.6,188.92
+Quality Check,Nexon EV,Night,10,36.8,29.2,249.37
+Final Assembly,Punch EV,Night,10,36.8,60.7,370.01
+EV Battery Fit,Curvv EV,Night,10,28.3,49.4,481.98
+Stamping,Curvv EV,Night,3,40.4,23.0,347.46
+Trim Assembly,Curvv EV,Morning,9,29.7,44.4,262.79
+Stamping,Nexon EV,Night,3,31.4,19.0,258.19
+Paint Shop,Punch EV,Night,7,37.5,93.5,873.21
+Final Assembly,Curvv EV,Afternoon,7,38.1,43.3,328.14
+Chassis Mount,Curvv EV,Night,9,39.8,35.7,341.86
+Stamping,Curvv EV,Afternoon,10,36.3,31.9,408.84
+Chassis Mount,Tiago EV,Afternoon,7,39.1,33.2,302.48
+Chassis Mount,Curvv EV,Afternoon,6,39.6,35.9,301.13
+Body Welding,Tiago EV,Morning,5,39.8,51.4,546.49
+Chassis Mount,Tiago EV,Morning,9,36.2,38.9,332.49
+EV Battery Fit,Nexon EV,Morning,3,29.3,30.1,318.84
+Chassis Mount,Nexon EV,Morning,11,37.3,48.9,396.72
+Paint Shop,Nexon EV,Morning,9,28.3,84.0,867.58
+Trim Assembly,Curvv EV,Afternoon,9,37.5,45.7,296.07
+Body Welding,Curvv EV,Afternoon,7,39.1,50.7,540.19
+Chassis Mount,Punch EV,Afternoon,8,33.6,33.4,370.02
+Paint Shop,Curvv EV,Afternoon,4,35.9,65.1,779.78
+Paint Shop,Curvv EV,Afternoon,5,38.5,92.7,927.98
+Paint Shop,Punch EV,Night,5,36.5,71.2,835.55
+Trim Assembly,Punch EV,Morning,9,33.7,45.4,268.57
+Final Assembly,Tiago EV,Morning,4,29.8,42.5,257.56
+Stamping,Tiago EV,Night,6,30.7,31.1,385.41
+Quality Check,Tiago EV,Morning,4,30.8,24.2,203.21
+Body Welding,Tiago EV,Night,4,40.1,60.0,559.88
+EV Battery Fit,Punch EV,Morning,4,41.7,32.9,333.17
+Stamping,Tiago EV,Afternoon,6,31.7,21.2,321.45
+Paint Shop,Tiago EV,Afternoon,8,39.5,76.4,879.12
+EV Battery Fit,Punch EV,Afternoon,8,31.8,51.9,403.48
+Final Assembly,Nexon EV,Afternoon,3,36.6,51.5,320.53
+Stamping,Curvv EV,Afternoon,3,38.9,23.5,395.19
+Quality Check,Punch EV,Night,10,32.1,16.3,114.92
+Chassis Mount,Curvv EV,Morning,8,38.5,42.2,360.55
+Final Assembly,Punch EV,Morning,5,33.5,61.1,411.19
+Chassis Mount,Tiago EV,Morning,5,40.9,43.5,363.96
+Stamping,Punch EV,Afternoon,3,28.7,41.5,507.0
+Chassis Mount,Tiago EV,Morning,9,40.6,31.8,326.69
+Final Assembly,Tiago EV,Afternoon,5,41.8,43.1,300.55
+Final Assembly,Nexon EV,Night,8,30.7,44.5,299.66
+Stamping,Nexon EV,Morning,11,36.6,33.9,463.28
+EV Battery Fit,Tiago EV,Afternoon,6,29.3,43.7,385.2
+Stamping,Tiago EV,Night,3,28.1,40.2,451.38
+Trim Assembly,Tiago EV,Night,11,41.7,30.5,234.13
+Trim Assembly,Nexon EV,Morning,4,39.1,52.2,325.25
+EV Battery Fit,Curvv EV,Night,5,31.0,47.4,472.59
+EV Battery Fit,Punch EV,Afternoon,11,32.7,45.0,379.42
+EV Battery Fit,Tiago EV,Afternoon,3,34.9,40.2,369.11
+Final Assembly,Tiago EV,Night,8,40.7,50.3,373.76
+Body Welding,Punch EV,Night,7,34.5,66.9,625.33
+Body Welding,Curvv EV,Morning,7,30.0,44.4,526.13
+Trim Assembly,Punch EV,Night,8,41.4,35.2,250.49
+Quality Check,Tiago EV,Night,11,32.9,18.3,163.48
+Body Welding,Tiago EV,Night,6,33.5,42.9,506.36
+Paint Shop,Curvv EV,Morning,6,28.7,71.4,828.29
+Chassis Mount,Nexon EV,Morning,5,33.2,36.0,315.45
+Paint Shop,Nexon EV,Afternoon,7,40.6,85.6,856.08
+Stamping,Curvv EV,Morning,6,41.4,33.3,386.17
+Trim Assembly,Tiago EV,Morning,10,30.2,32.6,203.96
+Trim Assembly,Curvv EV,Night,5,28.6,40.2,312.97
+Paint Shop,Punch EV,Night,3,38.9,81.4,921.24
+Stamping,Nexon EV,Afternoon,3,35.2,32.0,425.66
+Chassis Mount,Nexon EV,Afternoon,6,41.4,23.4,292.5
+Quality Check,Nexon EV,Morning,11,28.1,34.0,192.79
+Body Welding,Punch EV,Night,8,35.9,57.3,601.45
+Chassis Mount,Tiago EV,Night,7,39.2,43.1,362.35
+Stamping,Tiago EV,Night,6,38.6,23.4,366.89
+Stamping,Tiago EV,Morning,8,31.8,50.5,492.01
+EV Battery Fit,Tiago EV,Afternoon,4,28.9,43.5,354.29
+Quality Check,Nexon EV,Afternoon,6,36.8,21.9,209.23
+Trim Assembly,Tiago EV,Morning,4,33.3,41.8,349.11
+Final Assembly,Nexon EV,Night,4,40.2,50.7,334.35
+Paint Shop,Curvv EV,Morning,4,39.6,74.1,822.49
+Trim Assembly,Nexon EV,Morning,7,35.5,55.8,336.16
+Final Assembly,Punch EV,Afternoon,7,39.2,47.6,330.71
+Quality Check,Curvv EV,Morning,8,36.9,10.0,160.7
+Final Assembly,Tiago EV,Morning,7,37.4,55.2,350.93
+EV Battery Fit,Curvv EV,Night,11,33.2,54.1,400.7
+EV Battery Fit,Tiago EV,Morning,6,40.7,39.6,338.99
+Paint Shop,Tiago EV,Afternoon,4,29.1,85.8,851.44
+EV Battery Fit,Punch EV,Night,6,33.4,36.4,332.51
+Body Welding,Nexon EV,Morning,10,29.1,47.3,550.24
+Paint Shop,Curvv EV,Afternoon,8,28.6,99.8,993.16
+Trim Assembly,Curvv EV,Night,7,31.0,30.1,257.0
+Body Welding,Punch EV,Afternoon,6,38.7,45.6,518.35
+Stamping,Curvv EV,Night,7,34.4,41.0,417.8
+Body Welding,Curvv EV,Night,4,31.7,68.1,666.53
+Stamping,Punch EV,Morning,10,29.4,31.3,388.37
+Final Assembly,Curvv EV,Afternoon,7,30.3,46.5,289.82
+Final Assembly,Punch EV,Night,5,31.2,39.1,289.05
+Quality Check,Nexon EV,Afternoon,6,33.5,32.9,213.16
+Paint Shop,Tiago EV,Night,8,32.4,86.5,938.4
+Paint Shop,Nexon EV,Night,3,35.4,70.8,853.18
+Body Welding,Nexon EV,Afternoon,4,31.1,55.4,525.48
+Body Welding,Punch EV,Night,10,41.3,55.5,597.61
+EV Battery Fit,Tiago EV,Afternoon,8,28.3,61.0,443.89
+Chassis Mount,Curvv EV,Morning,3,37.4,49.7,353.45
+Chassis Mount,Curvv EV,Morning,6,35.6,48.4,372.38
+Quality Check,Tiago EV,Morning,5,30.5,20.3,161.76
+Chassis Mount,Punch EV,Afternoon,7,29.9,40.6,292.08
+Final Assembly,Tiago EV,Night,4,33.0,43.1,307.16
+Stamping,Tiago EV,Morning,9,33.2,34.1,363.08
+Body Welding,Tiago EV,Afternoon,10,40.5,54.5,558.85
+Chassis Mount,Tiago EV,Morning,6,30.5,33.2,307.37
+EV Battery Fit,Curvv EV,Night,3,32.1,31.1,336.74
+EV Battery Fit,Curvv EV,Night,5,37.6,32.5,356.11
+Paint Shop,Curvv EV,Morning,5,34.3,81.4,833.53
+Quality Check,Curvv EV,Night,3,35.4,25.7,165.88
+Paint Shop,Tiago EV,Morning,4,32.7,80.2,847.03
+Paint Shop,Tiago EV,Morning,9,34.0,89.2,897.19
+Paint Shop,Nexon EV,Night,3,40.7,68.2,808.84
+Stamping,Nexon EV,Afternoon,11,32.4,38.1,478.77
+Trim Assembly,Punch EV,Night,6,34.9,56.6,321.96
+Trim Assembly,Punch EV,Morning,11,39.9,52.8,303.29
+Quality Check,Tiago EV,Morning,8,38.0,23.7,193.16
+Final Assembly,Tiago EV,Night,4,29.0,35.1,230.79
+EV Battery Fit,Punch EV,Morning,11,37.4,30.8,357.55
+Chassis Mount,Tiago EV,Morning,9,37.9,38.5,339.39
+Final Assembly,Tiago EV,Night,9,31.3,56.4,342.59
+Body Welding,Curvv EV,Night,9,29.3,48.9,547.26
+Stamping,Tiago EV,Morning,6,28.3,35.3,423.99
+EV Battery Fit,Curvv EV,Afternoon,6,33.1,36.7,326.44
+Chassis Mount,Nexon EV,Morning,11,38.7,43.1,393.97
+Paint Shop,Tiago EV,Afternoon,4,30.8,87.4,880.88
+Final Assembly,Nexon EV,Night,11,28.6,53.4,318.95
+Trim Assembly,Curvv EV,Morning,10,30.9,54.9,315.9
+Chassis Mount,Curvv EV,Night,5,36.1,40.8,323.12
+EV Battery Fit,Tiago EV,Afternoon,6,37.9,44.5,390.33
+Chassis Mount,Curvv EV,Morning,11,40.4,47.4,370.79
+Final Assembly,Punch EV,Night,5,29.4,47.5,342.5
+Trim Assembly,Tiago EV,Morning,5,40.7,43.8,259.54
+Quality Check,Curvv EV,Morning,3,33.4,19.9,154.48
+EV Battery Fit,Curvv EV,Morning,6,32.6,42.6,356.23
+Quality Check,Tiago EV,Afternoon,4,33.5,26.0,132.98
+Stamping,Curvv EV,Afternoon,8,32.9,30.3,401.66
+Paint Shop,Curvv EV,Night,4,41.2,79.0,890.93
+Trim Assembly,Nexon EV,Morning,8,31.4,45.9,275.86
+Chassis Mount,Punch EV,Night,4,35.9,34.8,363.5
+EV Battery Fit,Punch EV,Morning,10,33.4,45.1,454.28
+EV Battery Fit,Nexon EV,Afternoon,7,39.9,22.9,331.28
+Final Assembly,Nexon EV,Morning,6,41.5,53.7,327.54
+Quality Check,Tiago EV,Afternoon,9,35.6,20.1,137.24
+Paint Shop,Nexon EV,Morning,11,36.8,79.8,830.33
+Body Welding,Punch EV,Afternoon,11,34.1,61.3,561.97
+Quality Check,Nexon EV,Afternoon,4,30.0,18.1,145.09
+Trim Assembly,Nexon EV,Night,11,35.4,33.3,220.85
+EV Battery Fit,Punch EV,Morning,9,38.2,22.5,286.39
+Final Assembly,Curvv EV,Afternoon,6,28.5,47.9,299.16
+Final Assembly,Tiago EV,Night,5,30.6,52.4,347.01
+Paint Shop,Punch EV,Afternoon,6,30.0,77.9,800.52
+Chassis Mount,Curvv EV,Afternoon,10,35.9,37.1,316.56
+Stamping,Curvv EV,Morning,3,33.3,36.4,441.47
+Final Assembly,Nexon EV,Afternoon,8,36.9,56.2,330.44
+EV Battery Fit,Curvv EV,Morning,3,35.0,22.9,302.23
+EV Battery Fit,Punch EV,Morning,11,37.4,36.3,373.86
+EV Battery Fit,Curvv EV,Afternoon,9,37.1,28.1,301.42
+Stamping,Curvv EV,Afternoon,5,35.8,27.6,396.59
+Chassis Mount,Tiago EV,Morning,11,37.5,39.3,314.8
+Body Welding,Nexon EV,Morning,4,33.2,63.1,603.53
+Chassis Mount,Curvv EV,Afternoon,4,28.2,50.9,424.1
+Body Welding,Nexon EV,Afternoon,7,32.7,71.7,681.2
+Trim Assembly,Tiago EV,Afternoon,7,38.3,42.3,233.17
+Trim Assembly,Nexon EV,Night,3,34.7,41.1,291.09
+Trim Assembly,Nexon EV,Night,7,36.9,47.6,318.72
+Stamping,Tiago EV,Morning,7,40.3,39.5,418.95
+Body Welding,Tiago EV,Afternoon,11,35.8,64.0,614.03
+Final Assembly,Nexon EV,Morning,10,38.9,48.4,324.22
+EV Battery Fit,Nexon EV,Night,4,36.1,40.4,381.68
+Quality Check,Curvv EV,Night,4,39.7,35.4,236.55
+Stamping,Curvv EV,Afternoon,11,32.7,35.8,413.16
+Final Assembly,Tiago EV,Afternoon,10,28.5,42.5,289.08
+Stamping,Punch EV,Night,7,37.3,22.0,361.15
+Final Assembly,Curvv EV,Afternoon,7,41.0,41.8,323.39
+Body Welding,Punch EV,Afternoon,8,32.5,71.2,644.7
+Quality Check,Nexon EV,Afternoon,4,41.1,34.7,205.47
+Final Assembly,Nexon EV,Morning,6,29.8,46.8,301.05
+Quality Check,Punch EV,Afternoon,11,31.8,31.2,168.95
+Trim Assembly,Nexon EV,Afternoon,8,39.2,42.5,270.55
+EV Battery Fit,Curvv EV,Afternoon,11,33.0,47.4,398.3
+Trim Assembly,Tiago EV,Afternoon,5,36.6,32.9,220.63
+EV Battery Fit,Punch EV,Night,8,37.4,43.1,367.24
+Final Assembly,Tiago EV,Night,3,34.4,38.2,231.12
+Paint Shop,Punch EV,Morning,3,30.8,72.1,828.87
+Body Welding,Nexon EV,Night,10,40.4,47.0,517.27
+Trim Assembly,Nexon EV,Morning,6,28.5,29.8,182.24
+Body Welding,Curvv EV,Night,8,35.8,46.0,546.88
+Paint Shop,Nexon EV,Afternoon,7,37.4,79.1,841.92
+Trim Assembly,Punch EV,Night,3,37.5,36.2,250.47
+Stamping,Curvv EV,Morning,9,29.0,29.1,409.28
+Body Welding,Tiago EV,Afternoon,11,40.5,54.4,571.23
+Stamping,Curvv EV,Afternoon,8,35.8,41.8,447.99
+Chassis Mount,Tiago EV,Afternoon,10,28.0,49.8,281.34
+Stamping,Tiago EV,Afternoon,4,29.2,34.2,406.19
+Stamping,Tiago EV,Night,8,34.6,36.6,391.12
+EV Battery Fit,Curvv EV,Afternoon,6,32.4,29.6,319.12
+Trim Assembly,Punch EV,Morning,7,39.3,53.2,294.59
+Paint Shop,Tiago EV,Afternoon,3,38.1,77.1,854.91
+Stamping,Curvv EV,Night,9,32.5,30.0,399.65
+Paint Shop,Nexon EV,Afternoon,4,30.0,79.9,818.75
+Quality Check,Curvv EV,Morning,10,28.4,18.4,197.26
+Paint Shop,Tiago EV,Morning,4,32.7,82.6,853.04
+Body Welding,Punch EV,Afternoon,9,31.1,48.5,536.07
+Body Welding,Curvv EV,Night,11,36.8,58.9,612.48
+Body Welding,Tiago EV,Afternoon,7,28.2,56.3,582.78
+Final Assembly,Nexon EV,Morning,8,29.7,42.6,290.63
+Chassis Mount,Tiago EV,Afternoon,6,31.5,26.4,290.55
+Trim Assembly,Punch EV,Night,5,28.5,26.0,232.99
+Stamping,Curvv EV,Night,11,28.4,35.9,406.63
+EV Battery Fit,Curvv EV,Morning,5,30.0,40.0,416.61
+Stamping,Punch EV,Night,6,33.7,31.8,363.05
+Quality Check,Nexon EV,Morning,7,28.2,30.7,146.15
+Trim Assembly,Tiago EV,Morning,10,41.3,46.3,252.48
+Chassis Mount,Punch EV,Afternoon,3,28.2,45.1,354.62
+Body Welding,Tiago EV,Morning,9,33.2,53.5,517.55
+Body Welding,Curvv EV,Morning,10,35.3,70.6,619.78
+EV Battery Fit,Tiago EV,Morning,11,38.5,40.9,393.05
+EV Battery Fit,Tiago EV,Afternoon,4,31.5,39.5,316.49
+EV Battery Fit,Tiago EV,Morning,4,41.7,47.0,408.49
+EV Battery Fit,Punch EV,Morning,7,31.9,37.6,352.16
+Quality Check,Curvv EV,Morning,5,29.2,18.8,148.23
+Paint Shop,Nexon EV,Morning,7,33.1,61.9,717.78
+Body Welding,Tiago EV,Night,8,38.7,72.1,653.19
+Trim Assembly,Nexon EV,Afternoon,5,30.7,31.7,226.83
+Body Welding,Nexon EV,Night,9,28.1,47.1,510.12
+Trim Assembly,Tiago EV,Afternoon,6,29.0,43.4,286.73
+Body Welding,Tiago EV,Night,4,34.8,52.9,520.48
+Chassis Mount,Tiago EV,Morning,3,37.7,34.2,312.09
+Body Welding,Punch EV,Afternoon,7,30.5,59.8,653.92
+Final Assembly,Punch EV,Morning,5,36.5,28.2,231.29
+Stamping,Tiago EV,Morning,4,29.9,20.9,341.34
+Chassis Mount,Curvv EV,Afternoon,3,40.8,52.5,383.34
+Final Assembly,Nexon EV,Morning,10,41.8,59.7,385.88
+EV Battery Fit,Nexon EV,Night,9,39.2,39.8,396.37
+Paint Shop,Punch EV,Night,6,34.2,93.9,1013.21
+Trim Assembly,Nexon EV,Afternoon,6,29.5,46.8,361.47
+Chassis Mount,Nexon EV,Morning,4,37.8,25.7,311.27
+Final Assembly,Nexon EV,Night,4,31.5,52.9,303.58
+Final Assembly,Nexon EV,Afternoon,8,28.4,40.5,322.0
+Quality Check,Punch EV,Night,11,29.6,14.8,118.3
+Body Welding,Punch EV,Morning,8,32.4,35.2,454.32
+Body Welding,Punch EV,Afternoon,7,34.6,73.2,662.1
+Quality Check,Nexon EV,Night,5,33.7,24.1,159.92
+Paint Shop,Punch EV,Afternoon,5,37.8,71.8,835.26
+Stamping,Nexon EV,Afternoon,10,32.9,33.7,422.26
+Chassis Mount,Punch EV,Morning,7,29.1,36.7,335.98
+Quality Check,Curvv EV,Night,9,41.0,10.0,122.93
+Paint Shop,Curvv EV,Night,3,36.6,82.0,876.69
+Quality Check,Punch EV,Afternoon,4,34.4,25.4,204.21
+Paint Shop,Tiago EV,Morning,10,37.8,79.7,892.63
+Body Welding,Nexon EV,Morning,8,29.4,77.8,671.43
+Quality Check,Tiago EV,Morning,6,31.8,14.5,145.77
+Paint Shop,Curvv EV,Night,5,30.5,89.1,910.14
+Chassis Mount,Tiago EV,Night,10,32.0,34.8,354.42
+Paint Shop,Tiago EV,Night,9,28.9,82.6,881.64
+Chassis Mount,Nexon EV,Night,3,37.7,65.2,466.8
+Paint Shop,Tiago EV,Afternoon,3,41.7,83.8,908.85
+Quality Check,Nexon EV,Afternoon,5,31.2,40.2,187.22
+Body Welding,Tiago EV,Afternoon,10,39.3,53.5,573.77
+Stamping,Punch EV,Afternoon,10,28.3,38.4,451.81
+Chassis Mount,Nexon EV,Afternoon,6,39.8,36.3,348.3
+Body Welding,Curvv EV,Morning,9,34.2,55.8,575.2
+Quality Check,Curvv EV,Afternoon,6,41.8,20.5,201.07
+Body Welding,Curvv EV,Afternoon,6,37.7,60.6,591.36
+Body Welding,Tiago EV,Morning,5,41.3,61.4,637.25
+Stamping,Curvv EV,Night,5,38.9,39.5,447.47
+Body Welding,Punch EV,Morning,5,37.4,51.6,571.61
+EV Battery Fit,Tiago EV,Morning,11,37.0,26.6,315.71
+Stamping,Tiago EV,Morning,10,36.5,29.2,401.91
+Trim Assembly,Tiago EV,Afternoon,7,34.1,38.0,239.17
+Chassis Mount,Curvv EV,Night,11,29.2,56.8,415.27
+Quality Check,Punch EV,Morning,7,30.6,14.2,99.25
+Final Assembly,Nexon EV,Afternoon,4,30.4,45.2,277.42
+Paint Shop,Curvv EV,Morning,8,33.6,79.9,880.09
+Quality Check,Curvv EV,Morning,4,36.4,24.8,233.63
+Stamping,Punch EV,Night,4,41.8,24.7,370.33
+Paint Shop,Curvv EV,Afternoon,8,35.2,78.2,856.3
+Trim Assembly,Curvv EV,Morning,3,35.9,44.7,272.09
+Final Assembly,Curvv EV,Afternoon,4,29.0,41.4,329.56
+EV Battery Fit,Punch EV,Night,10,28.2,37.3,339.73
+Final Assembly,Curvv EV,Afternoon,4,40.0,53.0,323.78
+Chassis Mount,Punch EV,Afternoon,7,32.3,35.5,284.96
+Paint Shop,Nexon EV,Night,6,34.2,99.4,957.62
+Stamping,Nexon EV,Afternoon,7,32.7,36.8,412.15
+Paint Shop,Curvv EV,Morning,8,30.4,87.4,976.63
+Trim Assembly,Punch EV,Afternoon,4,34.2,37.0,274.52
+Body Welding,Curvv EV,Morning,10,30.1,59.8,625.55
+Trim Assembly,Punch EV,Morning,8,30.0,42.3,265.38
+Quality Check,Nexon EV,Afternoon,8,40.3,23.5,167.35
+Stamping,Nexon EV,Night,10,39.5,28.8,385.16
+Quality Check,Tiago EV,Morning,9,36.8,23.3,178.66
+Body Welding,Tiago EV,Morning,10,40.6,61.4,548.7
+EV Battery Fit,Nexon EV,Afternoon,11,28.6,33.1,359.87
+EV Battery Fit,Nexon EV,Morning,8,35.2,42.5,359.85
+Final Assembly,Punch EV,Afternoon,10,38.0,38.7,289.33
+EV Battery Fit,Nexon EV,Night,8,32.8,40.3,308.26
+Trim Assembly,Nexon EV,Afternoon,3,41.8,65.3,306.52
+Stamping,Tiago EV,Afternoon,4,35.0,30.7,379.87
+Quality Check,Punch EV,Night,3,32.3,36.4,204.13
+Trim Assembly,Curvv EV,Night,4,41.4,42.2,246.35
+Trim Assembly,Tiago EV,Night,4,40.9,51.1,273.3
+Final Assembly,Nexon EV,Morning,3,33.4,45.1,333.8
+EV Battery Fit,Punch EV,Morning,4,41.8,42.8,450.66
+Chassis Mount,Nexon EV,Night,4,31.5,45.3,368.88
+Quality Check,Punch EV,Night,7,28.9,17.7,148.8
+Body Welding,Curvv EV,Night,7,40.6,42.1,493.94
+EV Battery Fit,Nexon EV,Afternoon,11,35.0,34.1,319.01
+Final Assembly,Tiago EV,Morning,9,35.1,64.1,374.48
+Quality Check,Curvv EV,Night,11,38.3,25.5,180.99
+Stamping,Curvv EV,Morning,10,34.2,40.9,441.52
+Chassis Mount,Curvv EV,Night,9,30.6,46.3,402.99
+Body Welding,Tiago EV,Night,11,30.6,65.5,619.92
+EV Battery Fit,Punch EV,Morning,10,31.6,34.6,249.64
+Quality Check,Tiago EV,Afternoon,6,32.7,19.2,185.7
+Chassis Mount,Nexon EV,Morning,4,35.3,51.6,408.93
+Paint Shop,Punch EV,Night,5,30.4,70.8,829.34
+Final Assembly,Nexon EV,Morning,7,31.0,52.9,327.28
+Chassis Mount,Curvv EV,Morning,8,35.0,30.6,291.85
+Chassis Mount,Nexon EV,Morning,4,31.3,29.6,304.08
+Quality Check,Nexon EV,Morning,11,29.6,23.4,128.32
+Chassis Mount,Tiago EV,Morning,10,34.9,48.4,340.92
+EV Battery Fit,Curvv EV,Morning,5,30.6,29.9,306.46
+Final Assembly,Tiago EV,Morning,9,38.0,48.7,347.6
+Trim Assembly,Curvv EV,Afternoon,9,38.4,32.4,291.29
+Chassis Mount,Tiago EV,Afternoon,10,40.9,33.8,393.32
+Final Assembly,Punch EV,Afternoon,8,36.1,48.3,289.72
+Trim Assembly,Tiago EV,Night,3,41.4,56.0,327.85
+Chassis Mount,Tiago EV,Afternoon,6,28.5,54.9,356.68
+Final Assembly,Curvv EV,Afternoon,4,35.0,46.9,323.18
+Chassis Mount,Tiago EV,Afternoon,5,32.7,53.8,417.63
+Body Welding,Punch EV,Afternoon,7,33.1,51.5,525.78
+Final Assembly,Curvv EV,Night,3,39.8,45.9,293.77
+Trim Assembly,Nexon EV,Night,3,38.6,65.5,356.48
+EV Battery Fit,Curvv EV,Night,8,38.5,31.5,348.61
+Stamping,Nexon EV,Morning,3,28.9,22.2,349.74
+Paint Shop,Tiago EV,Morning,3,37.6,86.1,923.12
+EV Battery Fit,Tiago EV,Afternoon,7,37.0,27.5,337.91
+EV Battery Fit,Nexon EV,Night,11,33.8,34.9,360.76
+Quality Check,Nexon EV,Afternoon,9,33.0,38.1,208.31
+Final Assembly,Curvv EV,Night,10,38.4,53.3,323.43
+Body Welding,Curvv EV,Afternoon,3,36.6,52.6,563.63
+Trim Assembly,Curvv EV,Afternoon,4,29.1,57.9,310.44
+Body Welding,Tiago EV,Afternoon,4,36.0,51.1,574.75
+Chassis Mount,Curvv EV,Morning,7,37.4,39.7,362.74
+Paint Shop,Punch EV,Morning,9,36.2,81.4,858.39
+Final Assembly,Punch EV,Afternoon,8,37.4,61.1,326.31
+Stamping,Punch EV,Afternoon,5,30.9,38.5,451.55
+Body Welding,Punch EV,Night,9,29.5,61.3,576.39
+Paint Shop,Nexon EV,Morning,8,28.8,93.3,929.3
+Chassis Mount,Tiago EV,Afternoon,11,37.5,44.6,376.94
+Chassis Mount,Nexon EV,Afternoon,4,34.7,19.6,297.95
+Paint Shop,Tiago EV,Morning,6,34.8,84.3,912.0
+Quality Check,Nexon EV,Morning,5,35.3,18.8,149.37
+Body Welding,Nexon EV,Night,5,41.7,53.5,594.72
+EV Battery Fit,Curvv EV,Morning,9,35.6,34.5,405.5
+Paint Shop,Nexon EV,Morning,11,41.9,81.5,884.76
+Body Welding,Punch EV,Morning,10,32.1,52.0,527.39
+Stamping,Nexon EV,Night,9,34.5,16.9,362.55
+Stamping,Tiago EV,Night,9,30.6,31.7,405.07
+EV Battery Fit,Punch EV,Night,7,30.8,43.6,393.39
+Paint Shop,Nexon EV,Night,6,36.0,75.8,836.52
+Final Assembly,Curvv EV,Night,5,33.7,54.1,344.71
+Body Welding,Curvv EV,Night,9,30.5,65.3,585.04
+Stamping,Punch EV,Afternoon,3,33.6,38.6,451.46
+Body Welding,Tiago EV,Night,6,37.7,53.1,551.19
+Stamping,Nexon EV,Morning,11,30.2,18.6,344.43
+Paint Shop,Punch EV,Night,3,32.0,63.9,708.56
+Body Welding,Curvv EV,Morning,5,31.2,71.3,640.32
+Stamping,Nexon EV,Morning,9,37.8,34.9,420.62
+Quality Check,Curvv EV,Morning,9,37.9,13.0,146.25
+EV Battery Fit,Tiago EV,Afternoon,5,36.7,47.1,390.12
+EV Battery Fit,Punch EV,Afternoon,8,36.4,36.7,355.46
+Stamping,Tiago EV,Morning,4,39.1,34.9,403.54
+Paint Shop,Punch EV,Morning,5,31.0,88.8,940.36
+Stamping,Nexon EV,Night,8,34.5,36.5,436.71
+Chassis Mount,Punch EV,Night,11,35.4,48.0,382.91
+Body Welding,Curvv EV,Night,8,32.3,47.8,571.91
+EV Battery Fit,Tiago EV,Night,9,28.6,30.0,295.44
+Quality Check,Tiago EV,Afternoon,10,37.3,41.7,236.17
+Chassis Mount,Nexon EV,Morning,11,33.5,45.5,468.22
+Final Assembly,Curvv EV,Afternoon,11,32.6,47.7,317.26
+Quality Check,Punch EV,Night,11,30.7,25.0,190.17
+Stamping,Nexon EV,Night,9,33.1,33.2,408.2
+Body Welding,Curvv EV,Afternoon,8,30.6,52.3,536.6
+Body Welding,Tiago EV,Morning,11,30.7,54.8,513.2
+Chassis Mount,Tiago EV,Morning,11,38.5,34.1,288.34
+Quality Check,Tiago EV,Morning,11,29.0,40.3,210.28
+Trim Assembly,Tiago EV,Morning,11,40.1,42.7,284.11
+Body Welding,Tiago EV,Morning,6,32.1,70.5,648.18
+Chassis Mount,Tiago EV,Afternoon,5,41.8,38.2,340.11
+Quality Check,Curvv EV,Afternoon,8,32.0,15.6,200.0
+Stamping,Nexon EV,Morning,11,37.9,28.5,421.91
+Paint Shop,Nexon EV,Morning,6,38.3,76.9,858.27
+Quality Check,Nexon EV,Afternoon,8,36.3,23.8,238.65
+EV Battery Fit,Tiago EV,Morning,5,37.2,39.2,363.35
+Stamping,Nexon EV,Afternoon,7,36.9,10.2,281.24
+Final Assembly,Tiago EV,Morning,11,29.6,51.3,302.8
+Body Welding,Punch EV,Afternoon,5,41.5,65.4,648.61
+Stamping,Tiago EV,Night,7,38.0,43.3,579.14
+Trim Assembly,Tiago EV,Night,7,34.5,53.7,330.73
+EV Battery Fit,Tiago EV,Morning,5,40.4,37.7,338.4
+Chassis Mount,Punch EV,Morning,6,36.9,37.4,295.24
+Quality Check,Nexon EV,Morning,5,39.3,29.8,207.01
+Chassis Mount,Curvv EV,Morning,9,31.4,32.6,292.34
+Chassis Mount,Tiago EV,Morning,8,34.9,29.2,273.55
+Body Welding,Punch EV,Morning,9,28.8,67.3,650.32
+Body Welding,Nexon EV,Afternoon,10,39.5,41.5,527.04
+EV Battery Fit,Curvv EV,Morning,5,35.7,32.4,388.33
+Body Welding,Punch EV,Night,9,28.2,66.6,630.15
+EV Battery Fit,Punch EV,Afternoon,5,29.5,43.7,390.78
+EV Battery Fit,Nexon EV,Morning,4,30.4,48.6,413.9
+Quality Check,Punch EV,Morning,11,31.8,28.6,171.16
+Quality Check,Punch EV,Night,11,36.4,16.1,157.59
+Quality Check,Punch EV,Afternoon,6,37.9,32.9,165.02
+Stamping,Curvv EV,Morning,6,36.7,31.9,404.17
+Trim Assembly,Tiago EV,Night,9,29.5,48.6,293.65
+Final Assembly,Nexon EV,Morning,6,29.2,41.0,297.01
+Trim Assembly,Punch EV,Night,4,29.6,56.2,338.53
+EV Battery Fit,Tiago EV,Afternoon,3,40.3,32.8,349.23
+Chassis Mount,Curvv EV,Night,4,40.3,25.7,265.16
+Trim Assembly,Curvv EV,Night,11,32.4,43.7,295.02
+Trim Assembly,Nexon EV,Morning,8,38.0,51.1,339.83
+Trim Assembly,Tiago EV,Afternoon,7,39.4,34.8,290.57
+Trim Assembly,Curvv EV,Morning,6,34.3,47.1,309.63
+Paint Shop,Curvv EV,Night,7,34.5,79.9,877.89
+Paint Shop,Nexon EV,Afternoon,3,35.4,77.5,842.94
+Body Welding,Nexon EV,Morning,10,41.9,52.7,560.9
+EV Battery Fit,Curvv EV,Morning,6,29.1,35.2,361.92
+Body Welding,Curvv EV,Afternoon,6,28.1,71.9,642.32
+Chassis Mount,Nexon EV,Afternoon,4,32.9,46.0,363.28
+Chassis Mount,Curvv EV,Morning,4,37.5,48.7,356.25
+Body Welding,Nexon EV,Afternoon,3,36.8,48.5,589.34
+Quality Check,Curvv EV,Afternoon,5,28.4,23.8,170.39
+Chassis Mount,Tiago EV,Morning,6,33.8,25.5,280.58
+Trim Assembly,Punch EV,Afternoon,5,29.9,44.5,232.36
+Paint Shop,Nexon EV,Morning,5,30.0,82.6,904.05
+Quality Check,Tiago EV,Morning,7,31.9,24.6,184.15
+Chassis Mount,Curvv EV,Morning,7,38.8,32.9,266.13
+Final Assembly,Curvv EV,Morning,9,40.9,60.8,324.33
+Stamping,Nexon EV,Afternoon,7,31.4,20.7,402.45
+Stamping,Nexon EV,Night,4,39.5,54.5,562.22
+Trim Assembly,Tiago EV,Morning,9,31.2,46.9,308.7
+Paint Shop,Nexon EV,Afternoon,9,41.9,76.6,883.15
+Chassis Mount,Tiago EV,Morning,8,34.9,34.7,360.8
+Final Assembly,Tiago EV,Night,7,31.5,50.4,310.26
+Trim Assembly,Punch EV,Night,8,32.3,35.5,275.31
+Paint Shop,Curvv EV,Night,4,38.6,71.4,839.87
+Paint Shop,Nexon EV,Morning,11,41.8,88.8,915.77
+Stamping,Punch EV,Morning,5,41.1,39.0,402.05
+Trim Assembly,Curvv EV,Afternoon,4,40.3,50.7,299.13
+Trim Assembly,Tiago EV,Afternoon,7,41.9,51.1,319.36
+Chassis Mount,Curvv EV,Afternoon,10,35.6,49.7,369.72
+Quality Check,Tiago EV,Morning,10,36.0,15.4,130.91
+Body Welding,Tiago EV,Night,10,37.8,49.5,481.26
+Chassis Mount,Nexon EV,Morning,9,32.4,35.4,293.36
+Stamping,Punch EV,Morning,4,30.2,24.5,422.25
+Quality Check,Punch EV,Night,10,33.9,19.4,173.4
+Quality Check,Punch EV,Afternoon,11,30.2,29.1,187.62
+Quality Check,Tiago EV,Night,5,28.8,28.3,170.74
+Quality Check,Punch EV,Night,11,36.9,21.5,140.2
+Final Assembly,Nexon EV,Afternoon,11,36.1,42.7,353.9
+Trim Assembly,Tiago EV,Afternoon,6,28.5,47.4,278.51
+Stamping,Tiago EV,Afternoon,11,31.8,27.6,378.15
+Final Assembly,Tiago EV,Night,9,31.8,51.3,290.98
+Final Assembly,Nexon EV,Morning,7,35.6,43.9,296.62
+Quality Check,Punch EV,Afternoon,11,39.3,22.0,150.97
+Final Assembly,Curvv EV,Morning,6,34.3,57.8,387.0
+Chassis Mount,Curvv EV,Morning,8,34.2,52.8,352.96
+Body Welding,Nexon EV,Morning,4,28.7,41.0,534.81
+Stamping,Punch EV,Night,8,33.2,29.4,401.68
+Paint Shop,Tiago EV,Morning,8,38.4,64.7,747.28
+Final Assembly,Curvv EV,Night,5,39.3,39.4,282.71
+Stamping,Curvv EV,Afternoon,4,30.7,35.8,426.99
+Body Welding,Tiago EV,Morning,11,37.2,69.5,667.61
+Final Assembly,Curvv EV,Afternoon,9,33.2,64.0,334.54
+Stamping,Punch EV,Afternoon,7,32.5,35.0,393.34
+Trim Assembly,Curvv EV,Morning,4,33.2,49.4,334.95
+Stamping,Tiago EV,Afternoon,11,35.8,22.2,323.74
+Paint Shop,Tiago EV,Morning,10,38.5,76.6,788.97
+Chassis Mount,Tiago EV,Afternoon,3,29.1,40.2,319.0
+Final Assembly,Tiago EV,Afternoon,3,28.5,58.0,321.44
+Paint Shop,Curvv EV,Afternoon,8,30.5,84.4,883.06
+Quality Check,Punch EV,Afternoon,11,34.4,26.8,153.22
+Paint Shop,Nexon EV,Night,8,31.5,87.5,822.77
+Chassis Mount,Punch EV,Night,8,37.8,30.2,290.54
+Final Assembly,Punch EV,Morning,11,32.5,60.5,357.61
+Paint Shop,Tiago EV,Morning,8,35.0,79.3,846.03
+Stamping,Nexon EV,Night,3,36.4,43.2,475.38
+Body Welding,Tiago EV,Afternoon,8,31.1,44.8,504.76
+Chassis Mount,Tiago EV,Morning,8,30.3,48.4,400.93
+Paint Shop,Nexon EV,Afternoon,4,37.0,80.1,854.61
+EV Battery Fit,Curvv EV,Morning,9,29.0,27.7,336.55
+Final Assembly,Curvv EV,Afternoon,8,39.4,34.8,233.82
+Paint Shop,Tiago EV,Afternoon,6,34.0,92.3,942.8
+Stamping,Nexon EV,Afternoon,5,37.4,27.6,347.93
+Final Assembly,Punch EV,Morning,7,31.3,59.8,390.79
+Quality Check,Tiago EV,Night,8,31.6,17.2,164.29
+EV Battery Fit,Nexon EV,Morning,6,35.6,54.6,449.14
+EV Battery Fit,Punch EV,Night,3,36.1,48.7,381.05
+Body Welding,Curvv EV,Morning,8,41.8,58.6,592.93
+Quality Check,Tiago EV,Morning,11,37.7,10.0,154.27
+Paint Shop,Curvv EV,Afternoon,8,30.7,83.8,868.35
+Stamping,Tiago EV,Afternoon,7,39.9,30.5,376.54
+Body Welding,Punch EV,Morning,3,33.2,53.1,526.75
+Chassis Mount,Tiago EV,Morning,11,35.3,27.9,385.09
+Chassis Mount,Nexon EV,Afternoon,9,28.6,34.9,279.45
+Trim Assembly,Punch EV,Night,9,40.4,49.5,271.09
+Body Welding,Curvv EV,Morning,11,37.8,45.7,517.52
+Final Assembly,Nexon EV,Afternoon,11,37.1,42.3,316.19
+Final Assembly,Punch EV,Night,5,41.4,60.9,363.74
+EV Battery Fit,Curvv EV,Night,7,34.7,43.7,430.24
+EV Battery Fit,Nexon EV,Morning,3,28.4,37.5,425.67
+Trim Assembly,Nexon EV,Night,6,28.3,48.9,299.88
+Paint Shop,Tiago EV,Afternoon,4,40.6,72.8,798.23
+Final Assembly,Punch EV,Afternoon,4,30.4,65.1,457.97
+Trim Assembly,Nexon EV,Morning,6,38.2,56.6,301.31
+Paint Shop,Punch EV,Afternoon,11,28.8,70.5,811.96
+Trim Assembly,Tiago EV,Morning,7,30.9,57.0,279.02
+Quality Check,Curvv EV,Night,4,40.8,25.1,164.98
+Final Assembly,Tiago EV,Afternoon,7,39.2,61.4,368.56
+Chassis Mount,Punch EV,Night,9,31.2,42.4,321.54
+Body Welding,Tiago EV,Afternoon,6,40.7,56.0,558.14
+Final Assembly,Tiago EV,Afternoon,5,30.7,54.1,323.77
+EV Battery Fit,Nexon EV,Night,5,35.1,38.9,320.84
+Stamping,Punch EV,Morning,5,40.0,36.4,442.67
+Quality Check,Punch EV,Night,5,40.7,11.2,150.1
+Trim Assembly,Punch EV,Afternoon,8,33.1,38.6,333.02
+Trim Assembly,Curvv EV,Morning,9,30.0,45.7,293.85
+Chassis Mount,Tiago EV,Morning,5,35.7,41.9,356.5
+Trim Assembly,Nexon EV,Morning,3,33.7,51.2,313.29
+EV Battery Fit,Punch EV,Afternoon,10,34.0,36.5,364.49
+Final Assembly,Nexon EV,Morning,5,36.3,48.3,324.41
+Trim Assembly,Punch EV,Night,9,38.8,47.5,293.79
+EV Battery Fit,Nexon EV,Morning,4,33.9,30.3,358.15
+EV Battery Fit,Punch EV,Night,9,31.0,36.0,379.84
+Paint Shop,Tiago EV,Afternoon,5,36.7,78.9,884.53
+Trim Assembly,Tiago EV,Morning,3,35.6,45.1,284.07
+Trim Assembly,Nexon EV,Afternoon,8,32.9,55.3,309.85
+Chassis Mount,Tiago EV,Night,4,41.7,42.4,301.4
+EV Battery Fit,Nexon EV,Night,6,37.3,37.9,335.96
+Quality Check,Curvv EV,Afternoon,3,34.0,28.7,188.3
+Stamping,Curvv EV,Morning,8,28.6,33.6,398.36
+Quality Check,Curvv EV,Afternoon,4,41.3,33.5,194.64
+Final Assembly,Nexon EV,Morning,7,36.8,53.0,348.28
+Paint Shop,Punch EV,Night,9,40.8,76.4,863.75
+Quality Check,Curvv EV,Afternoon,10,31.1,35.4,235.96
+Chassis Mount,Curvv EV,Night,11,31.4,32.1,320.26
+Stamping,Nexon EV,Afternoon,4,32.2,39.7,531.16
+Chassis Mount,Curvv EV,Morning,10,41.4,27.9,278.83
+Final Assembly,Punch EV,Morning,9,40.5,48.5,328.96
+Paint Shop,Nexon EV,Morning,9,29.6,81.5,856.11
+Final Assembly,Nexon EV,Afternoon,4,30.7,44.1,271.36
+EV Battery Fit,Tiago EV,Afternoon,11,39.7,41.3,335.85
+Stamping,Nexon EV,Afternoon,9,30.6,29.1,378.16
+EV Battery Fit,Nexon EV,Afternoon,10,29.3,35.2,343.94
+EV Battery Fit,Punch EV,Night,10,36.3,34.8,357.72
+EV Battery Fit,Punch EV,Afternoon,6,28.0,38.7,368.66
+Trim Assembly,Tiago EV,Morning,6,32.3,39.3,286.74
+EV Battery Fit,Curvv EV,Morning,3,35.4,47.4,404.14
+Quality Check,Nexon EV,Afternoon,5,32.7,28.1,208.54
+Paint Shop,Punch EV,Afternoon,6,28.1,87.4,885.57
+Chassis Mount,Punch EV,Afternoon,5,29.7,33.6,365.34
+Quality Check,Tiago EV,Night,6,35.9,32.7,218.24
+EV Battery Fit,Nexon EV,Night,3,37.8,37.3,379.02
+Trim Assembly,Nexon EV,Night,5,31.3,44.2,268.68
+Quality Check,Punch EV,Night,10,39.0,32.8,205.51
+Trim Assembly,Tiago EV,Afternoon,4,40.8,30.5,266.71
+Quality Check,Punch EV,Night,8,28.1,20.5,147.92
+Final Assembly,Punch EV,Night,5,32.3,67.1,342.36
+EV Battery Fit,Nexon EV,Morning,6,34.4,35.6,351.97
+Body Welding,Curvv EV,Morning,4,33.9,53.8,556.8
+Chassis Mount,Curvv EV,Morning,3,38.5,42.8,323.24
+Trim Assembly,Punch EV,Afternoon,5,33.0,42.5,264.96
+Final Assembly,Tiago EV,Morning,9,41.3,56.6,351.6
+Stamping,Curvv EV,Night,5,30.4,41.3,425.73
+Final Assembly,Punch EV,Morning,11,30.9,61.9,371.89
+Quality Check,Punch EV,Night,8,29.4,24.8,118.43
+Stamping,Curvv EV,Afternoon,4,34.7,35.0,433.44
+Quality Check,Punch EV,Morning,6,41.9,34.3,172.14
+Body Welding,Tiago EV,Night,9,29.7,50.5,515.68
+Final Assembly,Tiago EV,Afternoon,6,31.3,58.5,383.92
+Body Welding,Curvv EV,Afternoon,6,35.9,62.6,604.69
+Stamping,Punch EV,Night,5,38.7,47.4,468.02
+Final Assembly,Punch EV,Night,3,38.2,69.8,368.8
+EV Battery Fit,Curvv EV,Afternoon,9,35.7,38.7,351.49
+Trim Assembly,Curvv EV,Night,7,40.7,52.3,361.37
+Trim Assembly,Tiago EV,Morning,3,34.9,39.5,278.59
+Paint Shop,Nexon EV,Morning,8,31.9,85.4,889.69
+Body Welding,Tiago EV,Morning,5,41.5,54.9,583.27
+Body Welding,Punch EV,Night,4,39.4,52.5,614.78
+Final Assembly,Punch EV,Morning,4,32.9,56.6,370.64
+Paint Shop,Tiago EV,Morning,4,40.3,76.5,874.83
+Final Assembly,Punch EV,Morning,9,34.3,53.4,375.29
+Final Assembly,Nexon EV,Night,10,32.9,46.2,243.49
+Chassis Mount,Curvv EV,Afternoon,6,29.9,45.6,379.04
+Chassis Mount,Punch EV,Morning,5,40.9,19.8,268.04
+EV Battery Fit,Curvv EV,Afternoon,11,34.7,43.9,371.66
+Quality Check,Curvv EV,Morning,9,30.2,17.6,156.8
+Chassis Mount,Punch EV,Afternoon,5,31.2,44.5,350.13
+Paint Shop,Punch EV,Morning,5,41.8,78.6,830.22
+Trim Assembly,Punch EV,Night,7,36.3,45.5,266.84
+Final Assembly,Punch EV,Afternoon,3,41.9,42.5,281.14
+EV Battery Fit,Curvv EV,Night,6,31.7,36.4,396.08
+Final Assembly,Curvv EV,Morning,3,31.8,62.7,366.13
+Final Assembly,Curvv EV,Morning,7,35.6,47.9,320.5
+Stamping,Punch EV,Morning,4,33.7,31.9,453.75
+Paint Shop,Nexon EV,Morning,3,37.0,81.1,807.07
+Quality Check,Nexon EV,Morning,8,41.9,39.3,219.72
+Quality Check,Tiago EV,Afternoon,8,33.3,34.1,194.47
+EV Battery Fit,Tiago EV,Afternoon,6,37.0,45.7,439.89
+Stamping,Tiago EV,Night,11,38.9,43.4,450.85
+Final Assembly,Punch EV,Afternoon,4,28.9,50.1,296.99
+Chassis Mount,Curvv EV,Afternoon,9,35.8,49.3,339.13
+Chassis Mount,Nexon EV,Afternoon,7,39.0,33.0,298.67
+Stamping,Nexon EV,Morning,4,39.0,43.9,440.98
+Paint Shop,Tiago EV,Morning,11,33.1,74.6,872.09
+Body Welding,Curvv EV,Afternoon,8,41.3,39.4,503.45
+Final Assembly,Curvv EV,Night,7,30.4,68.3,363.26
+Body Welding,Punch EV,Afternoon,4,30.9,46.4,524.2
+Body Welding,Tiago EV,Morning,9,39.3,62.9,612.11
+Final Assembly,Curvv EV,Afternoon,4,30.8,50.3,327.25
+Stamping,Tiago EV,Morning,11,36.0,30.0,371.28
+Final Assembly,Nexon EV,Night,5,35.1,52.0,351.2
+Trim Assembly,Nexon EV,Night,10,38.8,37.1,265.8
+Quality Check,Tiago EV,Afternoon,3,37.0,19.9,179.32
+Quality Check,Tiago EV,Morning,10,30.1,39.4,202.0
+Trim Assembly,Nexon EV,Night,11,40.3,54.9,307.49
+Body Welding,Nexon EV,Night,9,35.2,58.1,570.7
+Body Welding,Nexon EV,Night,9,35.1,53.8,607.63
+Stamping,Punch EV,Afternoon,3,40.6,27.4,373.78
+Quality Check,Nexon EV,Night,3,33.7,31.4,158.6
+Chassis Mount,Tiago EV,Morning,6,36.3,35.8,346.48
+Chassis Mount,Nexon EV,Morning,5,36.6,36.9,289.28
+Paint Shop,Nexon EV,Afternoon,11,29.1,65.2,762.98
+Quality Check,Curvv EV,Night,3,31.9,22.3,195.93
+Final Assembly,Nexon EV,Night,5,34.3,37.4,247.93
+Body Welding,Nexon EV,Morning,8,40.3,53.4,532.09
+Trim Assembly,Curvv EV,Afternoon,11,31.2,40.5,280.63
+Final Assembly,Tiago EV,Morning,4,33.1,45.0,287.1
+Final Assembly,Punch EV,Night,9,35.8,44.7,302.73
+Stamping,Curvv EV,Morning,3,31.2,30.7,393.24
+EV Battery Fit,Punch EV,Afternoon,11,33.7,43.4,390.11
+Trim Assembly,Curvv EV,Afternoon,7,35.2,41.2,351.36
+Final Assembly,Tiago EV,Afternoon,5,30.7,46.9,323.89
+Quality Check,Curvv EV,Morning,8,40.8,30.3,223.6
+Trim Assembly,Tiago EV,Night,4,30.1,39.5,248.73
+Trim Assembly,Punch EV,Morning,10,28.3,43.8,274.42
+Chassis Mount,Punch EV,Morning,7,30.4,40.4,316.31
+Trim Assembly,Curvv EV,Night,10,28.8,35.1,268.5
+Quality Check,Tiago EV,Morning,4,28.7,33.5,164.74
+EV Battery Fit,Nexon EV,Night,11,38.7,39.6,393.41
+Body Welding,Tiago EV,Morning,8,38.6,57.6,616.97
+Trim Assembly,Nexon EV,Morning,3,32.5,48.2,275.0
+Trim Assembly,Tiago EV,Afternoon,11,31.7,48.7,299.55
+Paint Shop,Curvv EV,Morning,4,28.6,72.9,802.61
+Paint Shop,Nexon EV,Afternoon,7,37.9,93.7,975.59
+Body Welding,Tiago EV,Morning,5,38.0,63.8,630.11
+Body Welding,Punch EV,Night,10,37.3,48.6,529.62
+Trim Assembly,Tiago EV,Morning,10,31.8,50.9,305.01
+Final Assembly,Tiago EV,Night,6,36.8,41.6,340.72
+Chassis Mount,Punch EV,Afternoon,10,35.7,37.4,349.21
+EV Battery Fit,Punch EV,Night,6,29.9,40.7,373.59
+Final Assembly,Nexon EV,Night,10,33.8,43.3,292.04
+EV Battery Fit,Curvv EV,Afternoon,7,38.3,33.4,333.89
+Paint Shop,Nexon EV,Afternoon,5,29.8,93.5,940.47
+Stamping,Nexon EV,Afternoon,11,40.8,33.4,392.84
+EV Battery Fit,Curvv EV,Morning,10,39.8,35.8,285.88
+Chassis Mount,Curvv EV,Night,5,38.0,47.5,405.56
+Quality Check,Nexon EV,Afternoon,4,28.7,25.3,179.0
+Final Assembly,Punch EV,Night,11,29.1,64.6,366.37
+Quality Check,Nexon EV,Afternoon,6,39.3,10.0,163.57
+Quality Check,Curvv EV,Morning,9,28.6,18.8,179.37
+EV Battery Fit,Punch EV,Afternoon,5,28.2,55.8,426.92
+Chassis Mount,Curvv EV,Morning,3,28.2,48.5,373.87
+Body Welding,Tiago EV,Morning,6,41.5,59.9,560.19
+Quality Check,Curvv EV,Afternoon,8,34.0,29.1,186.92
+Quality Check,Tiago EV,Night,7,28.9,20.0,170.43
+Quality Check,Nexon EV,Afternoon,3,31.4,37.9,195.98
+Trim Assembly,Punch EV,Night,8,39.5,60.6,322.12
+Trim Assembly,Nexon EV,Morning,11,35.3,53.5,315.92
+EV Battery Fit,Curvv EV,Morning,7,33.6,29.2,302.27
+Trim Assembly,Nexon EV,Morning,8,41.8,43.4,253.28
+Chassis Mount,Punch EV,Afternoon,3,39.4,38.0,360.12
+Paint Shop,Curvv EV,Morning,6,38.1,75.7,778.93
+Paint Shop,Punch EV,Morning,9,41.9,73.7,812.68
+EV Battery Fit,Tiago EV,Afternoon,10,30.2,38.4,353.89
+Paint Shop,Tiago EV,Night,4,38.1,74.4,804.86
+Chassis Mount,Tiago EV,Night,8,31.1,40.5,349.54
+Body Welding,Nexon EV,Night,9,30.1,55.2,601.91
+Final Assembly,Nexon EV,Afternoon,11,35.5,50.3,274.71
+Body Welding,Curvv EV,Morning,11,38.6,50.4,538.69
+Chassis Mount,Nexon EV,Morning,3,38.3,37.8,302.4
+Paint Shop,Punch EV,Morning,10,33.7,91.6,919.69
+Stamping,Nexon EV,Night,10,40.0,41.4,503.98
+Chassis Mount,Nexon EV,Night,8,37.6,37.4,330.9
+Stamping,Curvv EV,Morning,7,34.9,36.6,445.14
+Final Assembly,Tiago EV,Morning,10,36.1,57.8,345.28
+Trim Assembly,Tiago EV,Afternoon,3,37.3,41.0,219.37
+Final Assembly,Curvv EV,Afternoon,6,28.2,55.1,356.51
+Trim Assembly,Tiago EV,Afternoon,3,32.3,50.3,306.06
+EV Battery Fit,Nexon EV,Night,6,29.2,47.0,419.53
+Trim Assembly,Nexon EV,Morning,3,31.0,49.2,360.95
+EV Battery Fit,Curvv EV,Night,5,36.4,31.8,297.94
+Body Welding,Tiago EV,Night,6,38.7,65.6,588.11
+Final Assembly,Curvv EV,Afternoon,11,32.5,48.0,336.15
+Body Welding,Punch EV,Afternoon,6,37.3,50.5,518.94
+Trim Assembly,Curvv EV,Morning,5,33.2,45.0,319.74
+Stamping,Punch EV,Morning,8,36.9,30.3,425.46
+Trim Assembly,Tiago EV,Night,7,39.1,62.9,323.11
+Chassis Mount,Nexon EV,Afternoon,6,37.1,48.0,375.89
+Trim Assembly,Tiago EV,Morning,6,36.8,56.8,356.0
+Chassis Mount,Nexon EV,Morning,3,39.2,51.2,350.47
+Chassis Mount,Punch EV,Morning,3,39.9,38.3,314.2
+Paint Shop,Nexon EV,Night,3,35.3,77.6,879.64
+Quality Check,Curvv EV,Afternoon,5,40.5,17.2,148.18
+Body Welding,Punch EV,Morning,3,41.1,52.1,581.71
+Final Assembly,Punch EV,Afternoon,5,40.8,42.7,351.88
+Trim Assembly,Curvv EV,Morning,5,29.6,37.2,279.19
+Quality Check,Nexon EV,Night,10,32.6,34.9,180.42
+Stamping,Nexon EV,Night,11,37.2,31.3,352.74
+EV Battery Fit,Curvv EV,Night,7,30.2,36.8,318.4
+Trim Assembly,Nexon EV,Morning,4,37.8,37.6,231.81
+Chassis Mount,Tiago EV,Morning,9,33.5,49.0,412.71
+Chassis Mount,Nexon EV,Afternoon,7,38.3,25.0,227.54
+Trim Assembly,Nexon EV,Night,11,39.2,23.8,200.69
+Final Assembly,Punch EV,Night,5,35.7,47.3,323.7
+EV Battery Fit,Punch EV,Night,4,39.6,41.3,370.01
